@@ -14,7 +14,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🧠 Skills I Know:
-
+img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C language logo" width="60" height="60"/>  
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
