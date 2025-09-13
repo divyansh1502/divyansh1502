@@ -1,8 +1,8 @@
 # Hello, I'm Divyansh 👋
 
-🎓 I'm a B.Tech CSE student from [Azad Institute of Engineering & Technology]  
+🎓 I'm a 3rd Year B.Tech CSE student from [Azad Institute of Engineering & Technology]  
 💡 Passionate about Full Stack Developer (Frontend + Backend) 
-🚀 Currently learning DSA | Spring Boot| SQL
+🚀 Currently learning : DSA | Spring Boot | SQL
 
 ## 🧠 Skills I Know:
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
