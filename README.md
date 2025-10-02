@@ -6,7 +6,8 @@ I enjoy working with both frontend and backend technologies, and I'm continuousl
 ## 📄 Resume
 
 You can view or download my resume here:  
-📥 [Divyansh Singh - Resume (PDF)](https://github.com/divyansh1502/YOUR-REPO/raw/main/Divyansh_Singh_Resume.pdf)
+📥 [Divyansh Singh - Resume (PDF)](https://github.com/divyansh1502/divyansh1502/raw/main/Resume.pdf)
+
 
 ---
 
