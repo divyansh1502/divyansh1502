@@ -33,7 +33,7 @@ You can view or download my resume here:
 ## 📂 Projects  
 
 ### 🔹 Netflix Clone  
-- A frontend clone of Netflix UI built with *React.js* and *Tailwind CSS*.  
+- A frontend clone of Netflix UI built with *HTML5* and *CSS3*.  
 - Showcases clean UI and responsive design.  
 - 🔗 [Live Demo]( https://cool-lebkuchen-63f104.netlify.app/)  
 
