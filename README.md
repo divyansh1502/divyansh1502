@@ -29,12 +29,13 @@ I enjoy working with both frontend and backend technologies, and I'm continuousl
 ### 🔹 Netflix Clone  
 - A frontend clone of Netflix UI built with *React.js* and *Tailwind CSS*.  
 - Showcases clean UI and responsive design.  
+- 🔗 [Live Demo]( https://cool-lebkuchen-63f104.netlify.app/)  
 
 ### 🔹 Calculator  
 - A simple yet interactive calculator made using *HTML, CSS, and JavaScript*.  
 - Performs basic arithmetic operations.  
+- 🔗 [Live Demo](https://divyansh1502.github.io/Calculator/)  
 
----
 
 ## 📚 Currently Learning  
 - Advanced React.js concepts  
