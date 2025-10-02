@@ -46,7 +46,15 @@ I enjoy working with both frontend and backend technologies, and I'm continuousl
 
 ## 🌐 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshsingh786420@gmail.com)[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/YOUR-USERNAME](https://leetcode.com/u/divyansh_5ingh/)) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/YOUR-USERNAME](https://www.instagram.com/divyansh_5ingh/))[![X](https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/divyansh_5ingh) ([https://linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/divyansh-singh-8865a9337/))   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-singh-8865a9337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshsingh786420@gmail@gmail.com)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/divyansh_5ingh)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/divyansh_5ingh)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/divyansh_5ingh)   
 
 ---
 
