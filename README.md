@@ -44,6 +44,7 @@ You can view or download my resume here:
 
 
 ## 📚 Currently Learning  
+- Doing *DSA* in Java language 
 - Advanced React.js concepts  
 - Tailwind CSS best practices  
 - Backend with *Spring Boot*  
