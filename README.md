@@ -42,9 +42,17 @@ You can view or download my resume here:
 - Performs basic arithmetic operations.  
 - 🔗 [Live Demo](https://divyansh1502.github.io/Calculator/)  
 
+### 🔹 Sidcup Family Golf – Website Clone  
+- A **Sidcup Family Golf** website clone built entirely from scratch using *HTML, CSS, JS*, and *GSAP animations*.  
+- Includes smooth animations, scroll effects, and interactive UI.  
+- Optimized for **desktop view only** (not responsive).  
+- 🔗 [Repository Link](https://github.com/divyansh1502/sidcup-golf-clone)  
+- 🌐 [Live Demo](https://divyansh1502.github.io/sidcup-golf-web-clone/)  
+
+---
 
 ## 📚 Currently Learning  
-- Doing *DSA* in Java language 
+- Doing *DSA* in Java language  
 - Advanced React.js concepts  
 - Tailwind CSS best practices  
 - Backend with *Spring Boot*  
@@ -57,7 +65,6 @@ You can view or download my resume here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-singh-8865a9337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=divyanshsingh786420@gmail.com)
-
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/divyansh_5ingh)
 
