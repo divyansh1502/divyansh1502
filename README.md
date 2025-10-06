@@ -72,6 +72,11 @@ You can view or download my resume here:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/divyansh_5ingh)   
 
+---
+
+## 🐍 GitHub Contribution Snake  
+
+![Snake animation](https://github.com/divyansh1502/divyansh1502/blob/main/snake.svg)
 
 ---
 
