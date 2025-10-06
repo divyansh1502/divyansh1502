@@ -74,10 +74,9 @@ You can view or download my resume here:
 
 ---
 
-## 📈 GitHub Stats  
+## 🐍 GitHub Contribution Snake  
 
-![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&theme=radical)  
+![Snake animation](https://github.com/divyansh1502/divyansh1502/blob/output/snake.svg)
 
 ---
 
