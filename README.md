@@ -74,10 +74,6 @@ You can view or download my resume here:
 
 ---
 
-## 🐍 GitHub Contribution Snake  
-
 ![Snake animation](https://github.com/divyansh1502/divyansh1502/blob/main/snake.svg)
 
 ---
-
-⭐ From [Divyansh](https://github.com/divyansh1502)
