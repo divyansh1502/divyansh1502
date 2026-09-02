@@ -3,11 +3,10 @@
 🚀 A passionate *Computer Science student* and aspiring *Full-Stack Developer* who loves building interactive and efficient applications.  
 I enjoy working with both frontend and backend technologies, and I'm continuously learning and growing my skills every day.  
 
-## 📄 Resume
+### 📄 Resume
 
-You can view or download my resume here:  
-📥 [Divyansh Singh - Resume (PDF)]([[https://github.com/divyansh1502/divyansh1502/raw/main/Resume.pdf](https://docs.google.com/document/d/1TpkB2EZK62dSjXiikmU_J3TNc4-MSPOB7e2OpeRud-0/edit?tab=t.0)](https://drive.google.com/drive/u/0/my-drive))
-
+You can download Resume from here:-
+[View My Resume](https://docs.google.com/document/d/1TpkB2EZK62dSjXiikmU_J3TNc4-MSPOB7e2OpeRud-0/edit?tab=t.0)
 
 ---
 
