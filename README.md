@@ -151,7 +151,7 @@ A Spotify-inspired music streaming web application built to practice frontend de
 * ▶️ Music browsing and playback functionality
 * ⚡ Built with HTML, CSS & JavaScript
 * 🔗 **[Repository](YOUR_SPOTIFY_REPOSITORY_LINK)**
-* 🌐 **[Live Demo](YOUR_SPOTIFY_LIVE_LINK)**
+* 🌐 **[Live Demo]([YOUR_SPOTIFY_LIVE_LINK](https://divyansh1502.github.io/Spotify/))**
 
 ---
 
