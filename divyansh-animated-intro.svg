@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#312e81"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip">
+      <rect x="8" y="8" width="884" height="154" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <rect x="8" y="8" width="884" height="154" rx="20"
+        fill="url(#bg)" stroke="#475569" stroke-width="2"/>
+
+  <!-- subtle animated sparkles -->
+  <g clip-path="url(#clip)" fill="#fff">
+    <g opacity=".25">
+      <circle cx="75" cy="35" r="1.5"><animate attributeName="opacity" values=".1;1;.1" dur="2s" repeatCount="indefinite"/></circle>
+      <circle cx="210" cy="125" r="1.2"><animate attributeName="opacity" values="1;.1;1" dur="2.7s" repeatCount="indefinite"/></circle>
+      <circle cx="520" cy="32" r="1.4"><animate attributeName="opacity" values=".1;1;.1" dur="1.8s" repeatCount="indefinite"/></circle>
+      <circle cx="820" cy="115" r="1.5"><animate attributeName="opacity" values="1;.1;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
+  <text x="40" y="47" font-family="monospace" font-size="16" fill="#94a3b8">
+    &gt; divyansh.build()
+  </text>
+
+  <!-- Line 1: yellow -->
+  <text x="40" y="87" font-family="monospace" font-size="22" font-weight="600"
+        fill="#FFD700" opacity="0">
+    🟡 Java | Spring Boot | DSA | LLD
+    <animate attributeName="opacity" values="0;1;1;0;0"
+             keyTimes="0;.05;.30;.36;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 2: green -->
+  <text x="40" y="87" font-family="monospace" font-size="22" font-weight="600"
+        fill="#22C55E" opacity="0">
+    🟢 Building Scalable Backend Applications
+    <animate attributeName="opacity" values="0;1;1;0;0"
+             keyTimes="0;.36;.61;.67;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 3: red -->
+  <text x="40" y="87" font-family="monospace" font-size="22" font-weight="600"
+        fill="#EF4444" opacity="0">
+    🔴 Learning DevOps &amp; Cloud Technologies
+    <animate attributeName="opacity" values="0;1;1;0;0"
+             keyTimes="0;.67;.86;.92;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 4: blue -->
+  <text x="40" y="87" font-family="monospace" font-size="22" font-weight="600"
+        fill="#3B82F6" opacity="0">
+    🔵 Always Learning, Always Building 🚀
+    <animate attributeName="opacity" values="0;1;1;0;0"
+             keyTimes="0;.92;.97;1;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <rect x="40" y="108" width="150" height="2" rx="1" fill="#64748b" opacity=".45"/>
+  <text x="40" y="135" font-family="monospace" font-size="13" fill="#64748b">
+    BUILD • LEARN • SOLVE • REPEAT
+  </text>
+</svg>
