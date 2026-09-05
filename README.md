@@ -8,74 +8,140 @@
 
 ## 👨‍💻 About Me
 
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Software_Engineering-Student-0B6B3A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☕_Java-Backend-ED8B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_DSA-Problem_Solving-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Spring_Boot-Developer-6DB33F?style=for-the-badge" />
+</p>
+
 <table>
 <tr>
-<td width="55%">
+<td width="60%" valign="top">
 
-🎓 **Computer Science & Engineering Student**
+### 🚀 Who I Am
 
-☕ Focused on **Java & Backend Development**
+I'm a **Computer Science & Engineering student** passionate about building software and understanding how real-world systems work.
 
-🧠 Practicing **Data Structures & Algorithms**
+My primary focus is **Java Backend Development**, while continuously strengthening my problem-solving skills through **Data Structures & Algorithms**.
 
-🏗️ Learning **LLD, Design Patterns & System Design**
+I'm currently exploring:
 
-⚙️ Building applications with **Spring Boot**
-
-🗄️ Working with **MySQL, JDBC & Hibernate**
-
-🔐 Exploring **JWT Authentication & Session Management**
-
-🐳 Learning **Docker, Kubernetes & DevOps**
-
-🐧 Comfortable working with **Linux environments**
-
-🔧 Using **Git & GitHub** for version control
-
-💡 Interested in **scalable and production-ready systems**
-
-🎯 Working towards becoming a **strong Software Engineer**
+* ☕ **Java & Object-Oriented Programming**
+* 🧠 **DSA & Problem Solving**
+* 🏗️ **LLD, Design Patterns & System Design**
+* ⚙️ **Spring Boot & Backend Development**
+* 🗄️ **MySQL, JDBC & Hibernate**
+* 🔐 **JWT Authentication & Session Management**
+* 🐳 **Docker, Kubernetes & DevOps**
+* 🐧 **Linux & Development Environments**
+* 🔧 **Git & GitHub**
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
+
+### 🧩 My Engineering Path
 
 ```text
-        💡 IDEA
-          │
-          ▼
-      🧠 DSA + OOP
-          │
-          ▼
-      🏗️ LLD
-          │
-          ▼
-    ⚙️ BACKEND
-          │
-    ┌─────┴─────┐
-    ▼           ▼
-Spring Boot   MySQL
-    │
-    ▼
- 🔐 Security
-    │
-    ▼
- 🐳 Docker
-    │
-    ▼
- ☸️ Kubernetes
-    │
-    ▼
- 🚀 DevOps
+          💡 IDEA
+             │
+             ▼
+       🧠 DSA + OOP
+             │
+             ▼
+          🏗️ LLD
+             │
+             ▼
+      ⚙️ BACKEND
+             │
+       ┌─────┴─────┐
+       ▼           ▼
+  ☕ Java      🗄️ MySQL
+       │
+       ▼
+   🔐 SECURITY
+       │
+       ▼
+   🐳 DEVOPS
+       │
+       ▼
+  ☸️ KUBERNETES
+       │
+       ▼
+   🚀 SCALE
 ```
 
 </td>
 </tr>
 </table>
 
+<br>
+
+### 🎯 What I'm Working Towards
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+
+**Think**
+
+DSA &
+Problem Solving
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+**Design**
+
+LLD &
+System Design
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Build**
+
+Spring Boot &
+Backend Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Scale**
+
+Docker, Kubernetes
+& DevOps
+
+</td>
+</tr>
+</table>
+
+> 💡 **My goal is to become a strong Software Engineer who can not only write code, but also understand how real-world software is designed, built, deployed and scaled.**
+
 ---
 
+
 ## 🧰 Tech Stack
+
+### ⚡ Technologies I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,spring,hibernate,maven,tomcat" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,docker,kubernetes,linux,githubactions,git,github,postman,idea,eclipse,vscode" />
+</p>
 
 ### 💻 Programming Languages
 
