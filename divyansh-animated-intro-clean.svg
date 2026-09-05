@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="145" viewBox="0 0 700 145">
+  <style>
+    .line {
+      font-family: "Fira Code", "Courier New", monospace;
+      font-size: 22px;
+      font-weight: 500;
+    }
+  </style>
+
+  <!-- Yellow -->
+  <text x="0" y="28" class="line" fill="#FFD700" opacity="0">
+    Java | Spring Boot | DSA | LLD | System Design
+    <animate attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;.02;.08;.24;.30;1"
+      dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Green -->
+  <text x="0" y="28" class="line" fill="#22C55E" opacity="0">
+    Building Scalable Backend Applications
+    <animate attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;.30;.36;.49;.55;1"
+      dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Red -->
+  <text x="0" y="28" class="line" fill="#EF4444" opacity="0">
+    Learning DevOps &amp; Cloud Technologies
+    <animate attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;.55;.61;.74;.80;1"
+      dur="12s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Blue -->
+  <text x="0" y="28" class="line" fill="#3B82F6" opacity="0">
+    Always Learning, Always Building 🚀
+    <animate attributeName="opacity"
+      values="0;0;1;1;0;0"
+      keyTimes="0;.80;.86;.96;1;1"
+      dur="12s" repeatCount="indefinite"/>
+  </text>
+</svg>
