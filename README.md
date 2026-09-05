@@ -2,7 +2,7 @@
 
 ### 🚀 Java Backend & Full-Stack Developer | DSA | Spring Boot | LLD & System Design
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+DSA+%7C+LLD+%7C+System+Design;Building+Scalable+Backend+Applications;Learning+DevOps+%26+Cloud+Technologies;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=false&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+DSA+%7C+LLD+%7C+System+Design;Building+Scalable+Backend+Applications;Learning+DevOps+%26+Cloud+Technologies;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
 
 ---
 
@@ -10,9 +10,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/💻_Software_Engineering-Student-0B6B3A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☕_Java-Backend-ED8B00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_DSA-Problem_Solving-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Spring_Boot-Developer-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☕_Java-Backend-F7DF1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_DSA-Problem_Solving-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Spring_Boot-Developer-DC2626?style=for-the-badge" />
 </p>
 
 <table>
