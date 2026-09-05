@@ -489,6 +489,10 @@ I'm working towards becoming a developer who can not only **write code**, but al
 
 ---
 
+<img src="divyansh-animated-intro-clean.svg" width="700"/>
+
+---
+
 ### ⭐ Thanks for visiting my profile!
 
 **Keep Learning • Keep Building • Keep Solving 🚀**
