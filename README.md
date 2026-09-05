@@ -289,11 +289,119 @@ I'm working towards becoming a developer who can not only **write code**, but al
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 My Development Journey
 
-![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyansh1502\&show_icons=true\&theme=tokyonight\&hide_border=true)
+```text
+                         👨‍💻 SOFTWARE ENGINEERING
+                                  │
+              ┌───────────────────┼───────────────────┐
+              │                   │                   │
+              ▼                   ▼                   ▼
+           🧠 DSA              ☕ JAVA            🌐 WEB
+              │                   │                   │
+              ▼                   ▼                   ▼
+        Problem Solving          OOP             HTML / CSS
+              │                   │              JavaScript
+              ▼                   ▼                   │
+         Algorithms         Design Patterns       React
+                                  │
+                                  ▼
+                         ⚙️ BACKEND DEVELOPMENT
+                                  │
+                         ┌────────┴────────┐
+                         ▼                 ▼
+                    Spring Boot         MySQL
+                         │                 │
+                  ┌──────┼──────┐          │
+                  ▼      ▼      ▼          ▼
+                JDBC  Hibernate REST      SQL
+                         │
+                         ▼
+                  🔐 SECURITY
+                         │
+                  JWT + Sessions
+                         │
+                         ▼
+                  🏗️ SOFTWARE DESIGN
+                         │
+                  LLD + System Design
+                         │
+                         ▼
+                    🐳 DEVOPS
+                         │
+              ┌──────────┼──────────┐
+              ▼          ▼          ▼
+            Linux      Docker    Kubernetes
+              │
+              ▼
+             🚀 CI/CD
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502\&layout=compact\&theme=tokyonight\&hide_border=true)
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divyansh1502&theme=tokyonight&hide_border=true" />
+</p>
+
+
+---
+
+## 💻 What I Build
+
+| Area                 | Technologies                                    |
+| -------------------- | ----------------------------------------------- |
+| 🧠 Problem Solving   | Java, DSA, Algorithms                           |
+| 🏗️ Software Design  | OOP, SOLID, Design Patterns, LLD, System Design |
+| ⚙️ Backend           | Spring Boot, Spring MVC, REST APIs              |
+| 🗄️ Database         | MySQL, JDBC, Hibernate, Spring Data             |
+| 🔐 Security          | JWT, Authentication, Session Management         |
+| 🎨 Frontend          | HTML, CSS, JavaScript, React                    |
+| 🐳 DevOps            | Linux, Docker, Kubernetes, CI/CD                |
+| 🔧 Development Tools | Git, GitHub, Maven, Postman                     |
+| 💻 IDEs              | IntelliJ IDEA, Eclipse, VS Code                 |
+
+---
+
+## 📈 My Current Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/01-Java%20%26%20DSA-ED8B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/03-Backend%20Development-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-LLD%20%26%20System%20Design-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/05-Docker%20%26%20DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</p>
+
+---
+
+
+## 🔥 GitHub Profile
+
+<p align="center">
+
+<a href="https://github.com/divyansh1502">
+  <img src="https://img.shields.io/github/followers/divyansh1502?label=Followers&style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/divyansh1502?tab=repositories">
+  <img src="https://img.shields.io/github/stars/divyansh1502?label=Total%20Stars&style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/divyansh1502">
+  <img src="https://img.shields.io/github/last-commit/divyansh1502/divyansh1502?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+<p align="center">
+  <b>💡 Building projects • Solving problems • Learning every day</b>
+</p>
+```
+
 
 ---
 
