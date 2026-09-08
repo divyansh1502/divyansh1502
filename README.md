@@ -6,8 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=false&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+DSA+%7C+LLD+%7C+System+Design;Building+Scalable+Backend+Applications;Learning+DevOps+%26+Cloud+Technologies;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
 
----
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2&section=header" width="100%"/>
+</p>
 
 
 ## 📈 About me
@@ -22,7 +23,15 @@
 
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&section=header" width="100%"/>
+</p>
+
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
 
 ### 🚀 Who I Am
 
@@ -44,7 +53,7 @@ I'm currently exploring:
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" valign="top" align="center">
 
 ### 🧩 My Engineering Path
 
@@ -78,8 +87,10 @@ I'm currently exploring:
 ```
 
 </td>
+
 </tr>
 </table>
+
 
 <br>
 
@@ -138,8 +149,6 @@ Docker, Kubernetes
 </table>
 
 > 💡 **My goal is to become a strong Software Engineer who can not only write code, but also understand how real-world software is designed, built, deployed and scaled.**
-
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
@@ -216,7 +225,10 @@ Docker, Kubernetes
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipseide\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" width="100%"/>
+</p>
+
 
 ## 🚀 Featured Projects
 
@@ -454,10 +466,18 @@ I'm working towards becoming a developer who can not only **write code**, but al
 </p>
 
 ---
+<div align="center">
+
+<img src="./java-backend-terminal.gif" width="100%" />
+
+</div>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=FFD700&center=true&vCenter=true&width=750&lines=git+add+.+%E2%86%92+git+commit+%E2%86%92+git+push;Code+%E2%86%92+Debug+%E2%86%92+Fix+%E2%86%92+Repeat;Building+Today+For+Tomorrow+%F0%9F%9A%80" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=850&lines=Talk+is+cheap%2C+Show+me+the+code.;First+solve+the+problem.+Then+write+the+code.;Coding+is+like+a+game%2C+the+more+you+play%2C+the+better+you+get." />
+</p>
+
 
 </p>
 
@@ -506,19 +526,13 @@ I'm working towards becoming a developer who can not only **write code**, but al
 
 ---
 
-<img src="divyansh-animated-intro-clean.svg" width="700"/>
-
----
-
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=160&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=190&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=32&fontColor=ffffff&desc=Feel%20Free%20to%20Connect%20%F0%9F%A4%9D&descSize=18&descColor=FFD700&descAlignY=75&animation=fadeIn&fontAlignY=50" width="100%"/>
+
 
 </p>
 
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Keep Solving 🚀**
 
 <p align="center">
 
