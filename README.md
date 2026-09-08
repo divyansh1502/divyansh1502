@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=160&section=header&text=Hello,%20Myself%20Divyansh%20Singh!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=240&section=header&text=Hello,%20Myself%20Divyansh%20Singh!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=false&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+DSA+%7C+LLD+%7C+System+Design;Building+Scalable+Backend+Applications;Learning+DevOps+%26+Cloud+Technologies;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:06B6D4,100:60A5FA&height=2&section=header" width="100%"/>
 </p>
 
 
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2563EB,100:2DD4BF&height=2&section=header" width="100%"/>
 </p>
 
 
@@ -93,11 +93,15 @@ I'm currently exploring:
 
 
 <br>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Think+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Scale;Turning+Ideas+Into+Real-World+Software;Learning+Something+New+Every+Day+%F0%9F%94%A5" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFF3A3,100:F97316&height=2&section=header" width="100%"/>
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=Think+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Scale;Turning+Ideas+Into+Real-World+Software;Learning+Something+New+Every+Day+%F0%9F%94%A5" />
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFF3A3,100:F97316&height=2&section=header" width="100%"/>
+</p>
 ### 🎯 What I'm Working Towards
 
 <table>
@@ -226,7 +230,7 @@ Docker, Kubernetes
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=2&section=header" width="100%"/>
 </p>
 
 
@@ -312,13 +316,16 @@ A frontend recreation of the Sidcup Family Golf website built from scratch.
 🔗 **[Repository](https://github.com/divyansh1502/sidcup-golf-clone)**
 🌐 **[Live Demo](https://divyansh1502.github.io/sidcup-golf-web-clone/)**
 
----
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+%F0%9F%9A%80;Breaking+%F0%9F%92%A5;Debugging+%F0%9F%90%9B;Learning+%F0%9F%A7%A0;Repeating+%F0%9F%94%A5" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=2&section=header" width="100%"/>
 </p>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=FFD700&center=true&vCenter=true&width=750&lines=Building+%F0%9F%9A%80;Breaking+%F0%9F%92%A5;Debugging+%F0%9F%90%9B;Learning+%F0%9F%A7%A0;Repeating+%F0%9F%94%A5" />
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=2&section=header" width="100%"/>
+</p>
 
 ## 📚 Currently Learning
 
@@ -361,7 +368,9 @@ Spring Boot   MySQL
      └── CI/CD
 ```
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=2&section=header" width="100%"/>
+</p>
 
 ## 🎯 My Engineering Goals
 
@@ -383,7 +392,9 @@ Spring Boot   MySQL
 
 I'm working towards becoming a developer who can not only **write code**, but also understand **how real-world software is designed, built, deployed and scaled.**
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=2&section=header" width="100%"/>
+</p>
 
 ## 🧭 My Development Journey
 
@@ -434,54 +445,47 @@ I'm working towards becoming a developer who can not only **write code**, but al
 ```
 ## 🔥 GitHub Profile
 
+<!-- 🔵 Top Blue Wave -->
+
 <p align="center">
-
-<a href="https://github.com/divyansh1502">
-  <img src="https://img.shields.io/github/followers/divyansh1502?label=Followers&style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://github.com/divyansh1502?tab=repositories">
-  <img src="https://img.shields.io/github/stars/divyansh1502?label=Total%20Stars&style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://github.com/divyansh1502">
-  <img src="https://img.shields.io/github/last-commit/divyansh1502/divyansh1502?style=for-the-badge&logo=github" />
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=header&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <b>💡 Building projects • Solving problems • Learning every day</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+%F0%9F%91%8B;Where+Ideas+Become+Code+%F0%9F%92%BB;Building+%E2%80%A2+Breaking+%E2%80%A2+Fixing+%E2%80%A2+Learning+%F0%9F%9A%80" />
 </p>
-
----
-
-
-## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=divyansh1502&theme=tokyonight&hide_border=true&border_radius=10" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=3&section=header" width="90%"/>
 </p>
 
----
-<div align="center">
-
-<img src="./java-backend-terminal.gif" width="100%" />
-
-</div>
+<!-- 📊 GitHub Stats -->
 
 <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=C9D1D9"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9"
+    height="180"
+  />
+</p>
+
+<!-- 🔥 Contribution Streak -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=850&lines=Talk+is+cheap%2C+Show+me+the+code.;First+solve+the+problem.+Then+write+the+code.;Coding+is+like+a+game%2C+the+more+you+play%2C+the+better+you+get." />
+  <img
+    src="https://streak-stats.demolab.com/?user=divyansh1502&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2563EB&fire=38BDF8&currStreakLabel=60A5FA"
+    width="70%"
+  />
 </p>
 
+<!-- 🔵 Bottom Blue Wave -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
-
----
 
 
 ## 💻 What I Build
@@ -498,23 +502,61 @@ I'm working towards becoming a developer who can not only **write code**, but al
 | 🔧 Development Tools | Git, GitHub, Maven, Postman                     |
 | 💻 IDEs              | IntelliJ IDEA, Eclipse, VS Code                 |
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=2&section=header" width="100%"/>
+</p>
 
 ## 🌐 Let's Connect
 
 <p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/divyansh-singh-8865a9337/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=divyanshsingh786420@gmail.com)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/divyansh_5ingh)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/divyansh_5ingh)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=90&section=header&animation=fadeIn" width="100%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Let's+Connect+%F0%9F%8C%90;Let's+Build+Something+Awesome+%F0%9F%9A%80;Open+To+Collaboration+%F0%9F%A4%9D;Always+Happy+To+Connect+%F0%9F%92%BB" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=2&section=header" width="90%"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyansh-singh-8865a9337/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyanshsingh786420@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/divyansh_5ingh">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/divyansh_5ingh">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyansh1502&label=Profile%20Views&color=22C55E&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/divyansh1502?label=Followers&style=for-the-badge&color=2DD4BF" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Code+%E2%86%92+%F0%9F%A7%A0+Learn+%E2%86%92+%F0%9F%9A%80+Build+%E2%86%92+%F0%9F%94%A5+Repeat;%E2%9A%A1+Keep+Learning.+Keep+Building.;%F0%9F%8C%B1+Small+Steps.+Big+Dreams." />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,33:2DD4BF,66:22C55E,100:064E3B&height=70&section=footer" width="100%"/>
+</p>
+
+
+<p align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=2&section=header" width="100%"/>
+</p>
 
 ## 🐍 Contribution Graph
 
@@ -524,7 +566,9 @@ I'm working towards becoming a developer who can not only **write code**, but al
 
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&section=header" width="100%"/>
+</p>
 
 <p align="center">
 
