@@ -1,23 +1,28 @@
-# Hi there 👋, I'm Divyansh Singh
+<div align="center">
 
-### 🚀 Java Backend & Full-Stack Developer | DSA | Spring Boot | LLD & System Design
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=160&section=header&text=Hello,%20Myself%20Divyansh%20Singh!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=false&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+DSA+%7C+LLD+%7C+System+Design;Building+Scalable+Backend+Applications;Learning+DevOps+%26+Cloud+Technologies;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=false&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+DSA+%7C+LLD+%7C+System+Design;Building+Scalable+Backend+Applications;Learning+DevOps+%26+Cloud+Technologies;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
 
 ---
 
-## 👨‍💻 About Me
+
+
+## 📈 About me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Software_Engineering-Student-0B6B3A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☕_Java-Backend-F7DF1E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_DSA-Problem_Solving-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Spring_Boot-Developer-DC2626?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/01-Java%20%26%20DSA-ED8B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/03-Backend%20Development-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-LLD%20%26%20System%20Design-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/05-Docker%20%26%20DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
 </p>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+---
 
 ### 🚀 Who I Am
 
@@ -78,6 +83,10 @@ I'm currently exploring:
 
 <br>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Think+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Scale;Turning+Ideas+Into+Real-World+Software;Learning+Something+New+Every+Day+%F0%9F%94%A5" />
+</p>
+
 ### 🎯 What I'm Working Towards
 
 <table>
@@ -132,6 +141,9 @@ Docker, Kubernetes
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
+</p>
 
 ## 🧰 Tech Stack
 
@@ -290,6 +302,12 @@ A frontend recreation of the Sidcup Family Golf website built from scratch.
 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+%F0%9F%9A%80;Breaking+%F0%9F%92%A5;Debugging+%F0%9F%90%9B;Learning+%F0%9F%A7%A0;Repeating+%F0%9F%94%A5" />
+</p>
+
+---
+
 ## 📚 Currently Learning
 
 ```text
@@ -402,49 +420,6 @@ I'm working towards becoming a developer who can not only **write code**, but al
               ▼
              🚀 CI/CD
 ```
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=divyansh1502&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
-## 💻 What I Build
-
-| Area                 | Technologies                                    |
-| -------------------- | ----------------------------------------------- |
-| 🧠 Problem Solving   | Java, DSA, Algorithms                           |
-| 🏗️ Software Design  | OOP, SOLID, Design Patterns, LLD, System Design |
-| ⚙️ Backend           | Spring Boot, Spring MVC, REST APIs              |
-| 🗄️ Database         | MySQL, JDBC, Hibernate, Spring Data             |
-| 🔐 Security          | JWT, Authentication, Session Management         |
-| 🎨 Frontend          | HTML, CSS, JavaScript, React                    |
-| 🐳 DevOps            | Linux, Docker, Kubernetes, CI/CD                |
-| 🔧 Development Tools | Git, GitHub, Maven, Postman                     |
-| 💻 IDEs              | IntelliJ IDEA, Eclipse, VS Code                 |
-
----
-
-## 📈 My Current Focus
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/01-Java%20%26%20DSA-ED8B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/02-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/03-Backend%20Development-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/04-LLD%20%26%20System%20Design-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/05-Docker%20%26%20DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</p>
-
----
-
-
 ## 🔥 GitHub Profile
 
 <p align="center">
@@ -466,12 +441,48 @@ I'm working towards becoming a developer who can not only **write code**, but al
 <p align="center">
   <b>💡 Building projects • Solving problems • Learning every day</b>
 </p>
-```
 
+---
+
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=divyansh1502&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=FFD700&center=true&vCenter=true&width=750&lines=git+add+.+%E2%86%92+git+commit+%E2%86%92+git+push;Code+%E2%86%92+Debug+%E2%86%92+Fix+%E2%86%92+Repeat;Building+Today+For+Tomorrow+%F0%9F%9A%80" />
+
+</p>
+
+---
+
+
+## 💻 What I Build
+
+| Area                 | Technologies                                    |
+| -------------------- | ----------------------------------------------- |
+| 🧠 Problem Solving   | Java, DSA, Algorithms                           |
+| 🏗️ Software Design  | OOP, SOLID, Design Patterns, LLD, System Design |
+| ⚙️ Backend           | Spring Boot, Spring MVC, REST APIs              |
+| 🗄️ Database         | MySQL, JDBC, Hibernate, Spring Data             |
+| 🔐 Security          | JWT, Authentication, Session Management         |
+| 🎨 Frontend          | HTML, CSS, JavaScript, React                    |
+| 🐳 DevOps            | Linux, Docker, Kubernetes, CI/CD                |
+| 🔧 Development Tools | Git, GitHub, Maven, Postman                     |
+| 💻 IDEs              | IntelliJ IDEA, Eclipse, VS Code                 |
 
 ---
 
 ## 🌐 Let's Connect
+
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/divyansh-singh-8865a9337/)
 
@@ -481,11 +492,17 @@ I'm working towards becoming a developer who can not only **write code**, but al
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/divyansh_5ingh)
 
+</p>
+
 ---
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/divyansh1502/divyansh1502/blob/main/snake.svg)
+<p align="center">
+
+<img src="https://github.com/divyansh1502/divyansh1502/blob/main/snake.svg" width="100%" />
+
+</p>
 
 ---
 
@@ -493,6 +510,22 @@ I'm working towards becoming a developer who can not only **write code**, but al
 
 ---
 
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=160&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+</p>
+
 ### ⭐ Thanks for visiting my profile!
 
 **Keep Learning • Keep Building • Keep Solving 🚀**
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Solving+%F0%9F%9A%80;See+You+In+The+Next+Commit+%F0%9F%91%8B;Until+Then...+Keep+Coding+%F0%9F%92%BB" />
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="70%"/>
+</p>
