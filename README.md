@@ -509,15 +509,15 @@ I'm working towards becoming a developer who can not only **write code**, but al
 ## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=90&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=90&section=header&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Let's+Connect+%F0%9F%8C%90;Let's+Build+Something+Awesome+%F0%9F%9A%80;Open+To+Collaboration+%F0%9F%A4%9D;Always+Happy+To+Connect+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Let's+Connect+%F0%9F%8C%90;Let's+Collaborate+%F0%9F%A4%9D;Let's+Build+Together+%F0%9F%9A%80;Let's+Grow+Together+%F0%9F%92%99" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=2&section=header" width="90%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=3&section=header" width="75%"/>
 </p>
 
 <p align="center">
@@ -539,24 +539,12 @@ I'm working towards becoming a developer who can not only **write code**, but al
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyansh1502&label=Profile%20Views&color=22C55E&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/divyansh1502?label=Followers&style=for-the-badge&color=2DD4BF" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Code+%E2%86%92+%F0%9F%A7%A0+Learn+%E2%86%92+%F0%9F%9A%80+Build+%E2%86%92+%F0%9F%94%A5+Repeat;%E2%9A%A1+Keep+Learning.+Keep+Building.;%F0%9F%8C%B1+Small+Steps.+Big+Dreams." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=70&section=footer" width="100%"/>
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,33:2DD4BF,66:22C55E,100:064E3B&height=70&section=footer" width="100%"/>
-</p>
 
 
-<p align="center">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=2&section=header" width="100%"/>
-</p>
 
 ## 🐍 Contribution Graph
 
