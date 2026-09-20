@@ -74,9 +74,8 @@ I'm currently exploring:
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" />
   </a>
   &nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/profile/divyanshsingh782">
-    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="45" height="45" />
+  <a href="https://www.hackerrank.com/profile/divyanshsingh782" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/hackerrank.svg" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;
 
