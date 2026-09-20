@@ -52,107 +52,44 @@ I'm currently exploring:
 * 🔧 **Git & GitHub**
 
 </td>
-
-<td width="40%" valign="top" align="center">
-
-### 🧩 My Engineering Path
-
-```text
-          💡 IDEA
-             │
-             ▼
-       🧠 DSA + OOP
-             │
-             ▼
-          🏗️ LLD
-             │
-             ▼
-      ⚙️ BACKEND
-             │
-       ┌─────┴─────┐
-       ▼           ▼
-  ☕ Java      🗄️ MySQL
-       │
-       ▼
-   🔐 SECURITY
-       │
-       ▼
-   🐳 DEVOPS
-       │
-       ▼
-  ☸️ KUBERNETES
-       │
-       ▼
-   🚀 SCALE
-```
-
-</td>
-
-</tr>
 </table>
-
-
-<br>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFF3A3,100:F97316&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 </p>
+## 🌐 Let's Connect
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=Think+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Scale;Turning+Ideas+Into+Real-World+Software;Learning+Something+New+Every+Day+%F0%9F%94%A5" />
+
+  <a href="https://www.linkedin.com/in/divyansh-singh-8865a9337/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyanshsingh786420@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://leetcode.com/divyansh_5ingh">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/profile/divyanshsingh782">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.geeksforgeeks.org/profile/divyanshsipew6">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://x.com/divyansh_5ingh">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="45" height="45" />
+  </a>
+
 </p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:FFF3A3,100:F97316&height=2&section=header" width="100%"/>
-</p>
-### 🎯 What I'm Working Towards
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🧠
-
-**Think**
-
-DSA &
-Problem Solving
-
-</td>
-
-<td align="center" width="25%">
-
-### 🏗️
-
-**Design**
-
-LLD &
-System Design
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**Build**
-
-Spring Boot &
-Backend Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Scale**
-
-Docker, Kubernetes
-& DevOps
-
-</td>
-</tr>
-</table>
-
-> 💡 **My goal is to become a strong Software Engineer who can not only write code, but also understand how real-world software is designed, built, deployed and scaled.**
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
@@ -327,122 +264,6 @@ A frontend recreation of the Sidcup Family Golf website built from scratch.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=2&section=header" width="100%"/>
 </p>
 
-## 📚 Currently Learning
-
-```text
-Java & DSA
-     │
-     ├── OOP
-     ├── Collections
-     ├── Recursion
-     ├── Algorithms
-     └── Problem Solving
-           │
-           ▼
-      Backend Development
-           │
-     ┌─────┴─────┐
-     ▼           ▼
-Spring Boot   MySQL
-     │
-     ├── Spring MVC
-     ├── Spring Data
-     ├── Hibernate
-     ├── JDBC
-     └── REST APIs
-           │
-           ▼
-     Software Design
-           │
-     ├── SOLID
-     ├── Design Patterns
-     ├── LLD
-     └── System Design
-           │
-           ▼
-       DevOps
-           │
-     ├── Linux
-     ├── Docker
-     ├── Kubernetes
-     └── CI/CD
-```
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=2&section=header" width="100%"/>
-</p>
-
-## 🎯 My Engineering Goals
-
-```text
-        📚 Learn
-           ↓
-        🧠 Understand
-           ↓
-        💻 Build
-           ↓
-        🧪 Test
-           ↓
-        🐳 Deploy
-           ↓
-        📈 Scale
-           ↓
-        🚀 Become a Better Engineer
-```
-
-I'm working towards becoming a developer who can not only **write code**, but also understand **how real-world software is designed, built, deployed and scaled.**
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=2&section=header" width="100%"/>
-</p>
-
-## 🧭 My Development Journey
-
-```text
-                         👨‍💻 SOFTWARE ENGINEERING
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-              ▼                   ▼                   ▼
-           🧠 DSA              ☕ JAVA            🌐 WEB
-              │                   │                   │
-              ▼                   ▼                   ▼
-        Problem Solving          OOP             HTML / CSS
-              │                   │              JavaScript
-              ▼                   ▼                   │
-         Algorithms         Design Patterns       React
-                                  │
-                                  ▼
-                         ⚙️ BACKEND DEVELOPMENT
-                                  │
-                         ┌────────┴────────┐
-                         ▼                 ▼
-                    Spring Boot         MySQL
-                         │                 │
-                  ┌──────┼──────┐          │
-                  ▼      ▼      ▼          ▼
-                JDBC  Hibernate REST      SQL
-                         │
-                         ▼
-                  🔐 SECURITY
-                         │
-                  JWT + Sessions
-                         │
-                         ▼
-                  🏗️ SOFTWARE DESIGN
-                         │
-                  LLD + System Design
-                         │
-                         ▼
-                    🐳 DEVOPS
-                         │
-              ┌──────────┼──────────┐
-              ▼          ▼          ▼
-            Linux      Docker    Kubernetes
-              │
-              ▼
-             🚀 CI/CD
-```
 ## 🔥 GitHub Profile
 
 <!-- 🔵 Top Blue Wave -->
@@ -451,33 +272,12 @@ I'm working towards becoming a developer who can not only **write code**, but al
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=header&animation=fadeIn" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+%F0%9F%91%8B;Where+Ideas+Become+Code+%F0%9F%92%BB;Building+%E2%80%A2+Breaking+%E2%80%A2+Fixing+%E2%80%A2+Learning+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=3&section=header" width="90%"/>
-</p>
-
-<!-- 📊 GitHub Stats -->
+<!-- 🔥 GitHub Contribution Streak -->
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=C9D1D9"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9"
-    height="180"
-  />
-</p>
-
-<!-- 🔥 Contribution Streak -->
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=divyansh1502&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2563EB&fire=38BDF8&currStreakLabel=60A5FA"
-    width="70%"
+    src="https://streak-stats.demolab.com/?user=divyansh1502&theme=github-dark-blue&hide_border=false&border_radius=12&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    width="82%"
   />
 </p>
 
@@ -505,46 +305,6 @@ I'm working towards becoming a developer who can not only **write code**, but al
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=2&section=header" width="100%"/>
 </p>
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=90&section=header&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Let's+Connect+%F0%9F%8C%90;Let's+Collaborate+%F0%9F%A4%9D;Let's+Build+Together+%F0%9F%9A%80;Let's+Grow+Together+%F0%9F%92%99" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=3&section=header" width="75%"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/divyansh-singh-8865a9337/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyanshsingh786420@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/divyansh_5ingh">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/divyansh_5ingh">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=70&section=footer" width="100%"/>
-</p>
-
-
-
-
 
 ## 🐍 Contribution Graph
 
