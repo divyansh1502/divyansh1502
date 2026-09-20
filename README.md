@@ -98,76 +98,141 @@ I'm currently exploring:
 
 ### ⚡ Technologies I Work With
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,spring,hibernate,maven,tomcat" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=mysql,docker,kubernetes,linux,githubactions,git,github,postman,idea,eclipse,vscode" />
-</p>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,spring,hibernate,maven,tomcat" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,docker,kubernetes,linux,githubactions,git,github,postman,idea,eclipse,vscode" />
+
+</div>
+
+---
 
 ### 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=mysql\&logoColor=white)
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java,c,js" />
+
+ 
+
+<img src="https://img.shields.io/badge/DSA-1F2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+
+</div>
+
+---
 
 ### 🧠 Computer Science & Software Design
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1F2937?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-007396?style=for-the-badge)
-![LLD](https://img.shields.io/badge/Low%20Level%20Design-6C63FF?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-4B5563?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-8E44AD?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-34495E?style=for-the-badge)
+<div align="left">
+
+<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-1F2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-007396?style=for-the-badge&logo=java&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LLD-Low%20Level%20Design-6C63FF?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+
+<img src="https://img.shields.io/badge/System%20Design-Architecture-4B5563?style=for-the-badge&logo=databricks&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Design%20Patterns-8E44AD?style=for-the-badge&logo=dependabot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SOLID-Principles-34495E?style=for-the-badge&logo=codefactor&logoColor=white" />
+
+</div>
+
+---
 
 ### 🌐 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+</div>
+
+---
 
 ### ⚙️ Backend & Java Ecosystem
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Spring Data](https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge\&logo=apachetomcat\&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,tomcat" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Spring%20MVC-MVC%20Architecture-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring%20Data-Data%20Access-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JDBC-Database%20Connectivity-007396?style=for-the-badge&logo=java&logoColor=white" />
+
+<img src="https://img.shields.io/badge/REST%20API-API%20Development-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
+
+</div>
+
+---
 
 ### 🔐 Authentication & Security
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![Session Management](https://img.shields.io/badge/Session%20Management-4B5563?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Authentication-2C3E50?style=for-the-badge)
+<div align="left">
+
+<img src="https://img.shields.io/badge/JWT-JSON%20Web%20Token-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Authentication-Identity%20%26%20Access-2C3E50?style=for-the-badge&logo=auth0&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Session%20Management-State%20Management-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+</div>
+
+---
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<img src="https://img.shields.io/badge/SQL-Query%20Language-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JPA-Persistence%20API-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+
+</div>
+
+---
 
 ### 🐳 DevOps & Cloud
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions" />
+
+<br>
+
+<img src="https://img.shields.io/badge/CI%2FCD-Continuous%20Integration%20%26%20Delivery-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Containerization-Docker%20%26%20Kubernetes-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</div>
+
+---
 
 ### 🔧 Version Control & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipseide\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<div align="left">
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,eclipse,vscode" />
+
+</div>
+
+---
+
+<p align="left">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=2&section=header" width="100%"/>
 </p>
+
+
 
 
 ## 🚀 Featured Projects
