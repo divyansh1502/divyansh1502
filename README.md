@@ -26,37 +26,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2563EB,100:2DD4BF&height=2&section=header" width="100%"/>
 </p>
 
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-### 🚀 Who I Am
-
-I'm a **Computer Science & Engineering student** passionate about building software and understanding how real-world systems work.
-
-My primary focus is **Java Backend Development**, while continuously strengthening my problem-solving skills through **Data Structures & Algorithms**.
-
-I'm currently exploring:
-
-* ☕ **Java & Object-Oriented Programming**
-* 🧠 **DSA & Problem Solving**
-* 🏗️ **LLD, Design Patterns & System Design**
-* ⚙️ **Spring Boot & Backend Development**
-* 🗄️ **MySQL, JDBC & Hibernate**
-* 🔐 **JWT Authentication & Session Management**
-* 🐳 **Docker, Kubernetes & DevOps**
-* 🐧 **Linux & Development Environments**
-* 🔧 **Git & GitHub**
-
-</td>
-
-</table>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
-</p>
-
 ## 🔗 My Coding Profiles
 
 <table align="center">
@@ -115,9 +84,31 @@ I'm currently exploring:
 </tr>
 </table>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
+</p>
 
+### 🚀 Who I Am
 
+I'm a **Computer Science & Engineering student** passionate about building software and understanding how real-world systems work.
 
+My primary focus is **Java Backend Development**, while continuously strengthening my problem-solving skills through **Data Structures & Algorithms**.
+
+I'm currently exploring:
+
+* ☕ **Java & Object-Oriented Programming**
+* 🧠 **DSA & Problem Solving**
+* 🏗️ **LLD, Design Patterns & System Design**
+* ⚙️ **Spring Boot & Backend Development**
+* 🗄️ **MySQL, JDBC & Hibernate**
+* 🔐 **JWT Authentication & Session Management**
+* 🐳 **Docker, Kubernetes & DevOps**
+* 🐧 **Linux & Development Environments**
+* 🔧 **Git & GitHub**
+
+</td>
+
+</table>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
