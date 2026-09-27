@@ -10,7 +10,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:06B6D4,100:60A5FA&height=2&section=header" width="100%"/>
 </p>
 
-
 ## 📈 About me
 
 <p align="center">
@@ -26,7 +25,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2563EB,100:2DD4BF&height=2&section=header" width="100%"/>
 </p>
-
 
 <table>
 <tr>
@@ -52,43 +50,74 @@ I'm currently exploring:
 * 🔧 **Git & GitHub**
 
 </td>
+
 </table>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 </p>
-## 🌐 Let's Connect
 
-<p align="center">
+## 🔗 My Coding Profiles
 
-  <a href="https://www.linkedin.com/in/divyansh-singh-8865a9337/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
-  </a>
-  &nbsp;&nbsp;
+<table align="center">
+<tr>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyanshsingh786420@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" />
-  </a>
-  &nbsp;&nbsp;
+<td align="center">
 
-  <a href="https://leetcode.com/divyansh_5ingh">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://takeuforward.org/profile/divyansh1502" target="_blank">
-  <img src="takeYouForward.jpg" width="45" height="45"/>
+<table>
+<tr>
+
+<td valign="middle">
+<a href="https://leetcode.com/u/divyansh_5ingh/">
+<img src="./leetcode.png" width="58" alt="LeetCode"/>
 </a>
-  &nbsp;&nbsp;
+</td>
 
-  <a href="https://www.geeksforgeeks.org/profile/divyanshsipew6">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="45" height="45" />
-  </a>
-  &nbsp;&nbsp;
+<td valign="middle">
+<a href="https://leetcode.com/u/divyansh_5ingh/">
+<img src="https://img.shields.io/badge/LeetCode-FF4500?style=for-the-badge&logoColor=white" alt="LeetCode"/>
+</a>
+</td>
 
-  <a href="https://x.com/divyansh_5ingh">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="45" height="45" />
-  </a>
+<td width="45"></td>
 
-</p>
+<td valign="middle">
+<a href="https://takeuforward.org/profile/divyansh1502">
+<img src="./takeUforward.jpg" width="58" alt="TakeUForward"/>
+</a>
+</td>
+
+<td valign="middle">
+<a href="https://takeuforward.org/profile/divyansh1502">
+<img src="https://img.shields.io/badge/TakeUForward-FFD700?style=for-the-badge&logoColor=black" alt="TakeUForward"/>
+</a>
+</td>
+
+<td width="45"></td>
+
+<td valign="middle">
+<a href="https://www.geeksforgeeks.org/profile/divyanshsipew6">
+<img src="./gfg.png" width="58" alt="GeeksforGeeks"/>
+</a>
+</td>
+
+<td valign="middle">
+<a href="https://www.geeksforgeeks.org/profile/divyanshsipew6">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+
+
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
@@ -115,8 +144,6 @@ I'm currently exploring:
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=java,c,js" />
-
- 
 
 <img src="https://img.shields.io/badge/DSA-1F2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 
@@ -232,9 +259,6 @@ I'm currently exploring:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=2&section=header" width="100%"/>
 </p>
 
-
-
-
 ## 🚀 Featured Projects
 
 ### 🎵 Spotify Clone
@@ -255,6 +279,7 @@ A Spotify-inspired music streaming web application built to practice frontend de
 A Human Resource Management System developed during my Java Spring Boot internship.
 
 **Tech Stack:**
+
 `Java` `Spring Boot` `Spring MVC` `Hibernate` `JDBC` `MySQL` `Thymeleaf` `Maven` `Git`
 
 **Key Features:**
@@ -324,6 +349,7 @@ A frontend recreation of the Sidcup Family Golf website built from scratch.
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=FFD700&center=true&vCenter=true&width=750&lines=Building+%F0%9F%9A%80;Breaking+%F0%9F%92%A5;Debugging+%F0%9F%90%9B;Learning+%F0%9F%A7%A0;Repeating+%F0%9F%94%A5" />
 </p>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=2&section=header" width="100%"/>
 </p>
@@ -350,7 +376,6 @@ A frontend recreation of the Sidcup Family Golf website built from scratch.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
-
 
 ## 💻 What I Build
 
@@ -382,13 +407,72 @@ A frontend recreation of the Sidcup Family Golf website built from scratch.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&section=header" width="100%"/>
 </p>
 
+## 🌐 Let's Connect
+
+<table width="100%">
+<tr>
+
+<td align="center" width="16.66%">
+
+<a href="https://www.linkedin.com/in/divyansh-singh-8865a9337/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
+</a>
+
+</td>
+
+<td align="center" width="16.66%">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyanshsingh786420@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" />
+</a>
+
+</td>
+
+<td align="center" width="16.66%">
+
+<a href="https://leetcode.com/divyansh_5ingh">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" />
+</a>
+
+</td>
+
+<td align="center" width="16.66%">
+
+<a href="https://takeuforward.org/profile/divyansh1502" target="_blank">
+  <img src="takeYouForward.jpg" width="45" height="45"/>
+</a>
+
+</td>
+
+<td align="center" width="16.66%">
+
+<a href="https://www.geeksforgeeks.org/profile/divyanshsipew6">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="45" height="45" />
+</a>
+
+</td>
+
+<td align="center" width="16.66%">
+
+<a href="https://x.com/divyansh_5ingh">
+  <img src="https://cdn.simpleicons.org/x/FFFFFF" width="45" height="45" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
+</p>
+
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=190&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=32&fontColor=ffffff&desc=Feel%20Free%20to%20Connect%20%F0%9F%A4%9D&descSize=18&descColor=FFD700&descAlignY=75&animation=fadeIn&fontAlignY=50" width="100%"/>
 
-
 </p>
-
 
 <p align="center">
 
