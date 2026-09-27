@@ -28,81 +28,54 @@
 
 ## 🔗 My Coding Profiles
 
-<table align="center">
-<tr>
-
-<td align="center">
+<div align="center">
 
 <table>
 <tr>
 
-<td valign="middle">
-<a href="https://leetcode.com/u/divyansh_5ingh/">
-<img src="./leetcode.png" width="58" alt="LeetCode"/>
-</a>
-</td>
+<td align="center" valign="middle">
 
-<td valign="middle">
 <a href="https://leetcode.com/u/divyansh_5ingh/">
+<img src="./leetcode.png" width="52" alt="LeetCode"/>
+&nbsp;
 <img src="https://img.shields.io/badge/LeetCode-FF4500?style=for-the-badge&logoColor=white" alt="LeetCode"/>
 </a>
-</td>
-
-</tr>
-</table>
 
 </td>
 
-<td align="center">
+<td width="35"></td>
 
-<table>
-<tr>
+<td align="center" valign="middle">
 
-<td valign="middle">
 <a href="https://takeuforward.org/profile/divyansh1502">
-<img src="./takeUforward.jpg" width="58" alt="TakeUForward"/>
-</a>
-</td>
-
-<td valign="middle">
-<a href="https://takeuforward.org/profile/divyansh1502">
+<img src="./takeUforward.jpg" width="52" alt="TakeUForward"/>
+&nbsp;
 <img src="https://img.shields.io/badge/TakeUForward-FFD700?style=for-the-badge&logoColor=black" alt="TakeUForward"/>
 </a>
-</td>
-
-</tr>
-</table>
 
 </td>
 
-<td align="center">
+<td width="35"></td>
 
-<table>
-<tr>
+<td align="center" valign="middle">
 
-<td valign="middle">
 <a href="https://www.geeksforgeeks.org/profile/divyanshsipew6">
-<img src="./gfg.png" width="58" alt="GeeksforGeeks"/>
-</a>
-</td>
-
-<td valign="middle">
-<a href="https://www.geeksforgeeks.org/profile/divyanshsipew6">
+<img src="./gfg.png" width="52" alt="GeeksforGeeks"/>
+&nbsp;
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logoColor=white" alt="GeeksforGeeks"/>
 </a>
-</td>
-
-</tr>
-</table>
 
 </td>
 
 </tr>
 </table>
+
+</div>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 </p>
+
 
 ### 🚀 Who I Am
 
