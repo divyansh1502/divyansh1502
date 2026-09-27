@@ -48,7 +48,15 @@
 </a>
 </td>
 
-<td width="45"></td>
+</tr>
+</table>
+
+</td>
+
+<td align="center">
+
+<table>
+<tr>
 
 <td valign="middle">
 <a href="https://takeuforward.org/profile/divyansh1502">
@@ -62,7 +70,15 @@
 </a>
 </td>
 
-<td width="45"></td>
+</tr>
+</table>
+
+</td>
+
+<td align="center">
+
+<table>
+<tr>
 
 <td valign="middle">
 <a href="https://www.geeksforgeeks.org/profile/divyanshsipew6">
