@@ -59,7 +59,7 @@
 
 <td align="center" valign="middle">
 
-<a href="https://www.geeksforgeeks.org/profile/divyanshsipew6">
+<a href="https://www.geeksforgeeks.org/profile/divyansh1502">
 <img src="./gfg.png" width="52" alt="GeeksforGeeks"/>
 &nbsp;
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logoColor=white" alt="GeeksforGeeks"/>
