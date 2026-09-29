@@ -426,7 +426,7 @@ A frontend recreation of the Sidcup Family Golf website built from scratch.
 
 <td align="center" width="16.66%">
 
-<a href="https://www.geeksforgeeks.org/profile/divyanshsipew6">
+<a href="https://www.geeksforgeeks.org/profile/divyansh1502">
   <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="45" height="45" />
 </a>
 
