@@ -394,7 +394,7 @@ A frontend recreation of the Sidcup Family Golf website built from scratch.
 
 <td align="center" width="16.66%">
 
-<a href="https://www.linkedin.com/in/divyansh-singh-8865a9337/">
+<a href="www.linkedin.com/in/divyansh1502">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
 </a>
 
