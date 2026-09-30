@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=240&section=header&text=Hello,%20Myself%20Divyansh%20Singh!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4F46E5&height=190&section=header&text=Divyansh%20Singh&fontSize=46&fontColor=F8FAFC&fontAlignY=40&desc=Java%20Backend%20Developer%20%C2%B7%20DSA%20%C2%B7%20System%20Design&descSize=16&descColor=C7D2FE&descAlignY=62" width="100%" alt="Divyansh Singh"/>
+
+<a href="https://www.linkedin.com/in/divyansh1502"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:divyanshsingh786420@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://x.com/divyansh_5ingh"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://github.com/divyansh1502"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=false&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+DSA+%7C+LLD+%7C+System+Design;Building+Scalable+Backend+Applications;Learning+DevOps+%26+Cloud+Technologies;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:06B6D4,100:60A5FA&height=2&section=header" width="100%"/>
-</p>
+<br/>
 
 ## 📈 About me
 
@@ -22,214 +23,107 @@
 
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2563EB,100:2DD4BF&height=2&section=header" width="100%"/>
-</p>
+<div align="center">
 
-## 🔗 My Coding Profiles
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA116,50:FFD700,100:2F8D46&height=3&section=header" width="100%" alt=""/>
+
+<br/>
+
+## 🔥 Where the Grind Happens
 
 <div align="center">
 
-<table>
+<table width="100%">
+
+<!-- Window title bar -->
+<tr>
+<td colspan="3" align="left">
+🔴 🟡 🟢 &nbsp;&nbsp;<code>~/divyansh/coding-profiles</code>
+</td>
+</tr>
+
+<!-- Command -->
+<tr>
+<td colspan="3" align="left">
+<code>$ ls --platforms</code>
+</td>
+</tr>
+
+<!-- Dock -->
 <tr>
 
-<td align="center" valign="middle">
-
-<a href="https://leetcode.com/u/divyansh_5ingh/">
-<img src="./leetcode.png" width="52" alt="LeetCode"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LeetCode-FF4500?style=for-the-badge&logoColor=white" alt="LeetCode"/>
-</a>
-
+<td align="center" valign="top" width="33%">
+<br/>
+<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="./leetcode.png" width="76" height="76" alt="LeetCode"/></a>
+<br/><br/>
+<b>LeetCode</b><br/>
+<code>problem-solving/</code><br/>
+<sub>Daily practice &amp; contests</sub>
+<br/><br/>
+<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://img.shields.io/badge/open-%E2%86%92-FFA116?style=flat-square&labelColor=1F2937" alt="Open LeetCode"/></a>
+<br/><br/>
 </td>
 
-<td width="35"></td>
-
-<td align="center" valign="middle">
-
-<a href="https://takeuforward.org/profile/divyansh1502">
-<img src="./takeUforward.jpg" width="52" alt="TakeUForward"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TakeUForward-FFD700?style=for-the-badge&logoColor=black" alt="TakeUForward"/>
-</a>
-
+<td align="center" valign="top" width="33%">
+<br/>
+<a href="https://takeuforward.org/profile/divyansh1502"><img src="./takeUforward.jpg" width="76" height="76" alt="TakeUForward"/></a>
+<br/><br/>
+<b>TakeUForward</b><br/>
+<code>dsa-roadmap/</code><br/>
+<sub>Striver's A2Z sheet</sub>
+<br/><br/>
+<a href="https://takeuforward.org/profile/divyansh1502"><img src="https://img.shields.io/badge/open-%E2%86%92-FFD700?style=flat-square&labelColor=1F2937" alt="Open TakeUForward"/></a>
+<br/><br/>
 </td>
 
-<td width="35"></td>
-
-<td align="center" valign="middle">
-
-<a href="https://www.geeksforgeeks.org/profile/divyansh1502">
-<img src="./gfg.png" width="52" alt="GeeksforGeeks"/>
-&nbsp;
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
+<td align="center" valign="top" width="33%">
+<br/>
+<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="./gfg.png" width="76" height="76" alt="GeeksforGeeks"/></a>
+<br/><br/>
+<b>GeeksforGeeks</b><br/>
+<code>core-concepts/</code><br/>
+<sub>CS fundamentals &amp; interview prep</sub>
+<br/><br/>
+<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="https://img.shields.io/badge/open-%E2%86%92-2F8D46?style=flat-square&labelColor=1F2937" alt="Open GeeksforGeeks"/></a>
+<br/><br/>
 </td>
 
 </tr>
-</table>
 
-</div>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
-</p>
-
-
-### 🚀 Who I Am
-
-I'm a **Computer Science & Engineering student** passionate about building software and understanding how real-world systems work.
-
-My primary focus is **Java Backend Development**, while continuously strengthening my problem-solving skills through **Data Structures & Algorithms**.
-
-I'm currently exploring:
-
-* ☕ **Java & Object-Oriented Programming**
-* 🧠 **DSA & Problem Solving**
-* 🏗️ **LLD, Design Patterns & System Design**
-* ⚙️ **Spring Boot & Backend Development**
-* 🗄️ **MySQL, JDBC & Hibernate**
-* 🔐 **JWT Authentication & Session Management**
-* 🐳 **Docker, Kubernetes & DevOps**
-* 🐧 **Linux & Development Environments**
-* 🔧 **Git & GitHub**
-
+<!-- Footer command -->
+<tr>
+<td colspan="3" align="left">
+<code>$ echo "Solve. Learn. Repeat."</code><br/>
+<code>Solve. Learn. Repeat.</code><br/>
+<code>$ ▌</code>
 </td>
+</tr>
 
 </table>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
-</p>
+</div>
 
-## 🧰 Tech Stack
-
-### ⚡ Technologies I Work With
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,spring,hibernate,maven,tomcat" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=mysql,docker,kubernetes,linux,githubactions,git,github,postman,idea,eclipse,vscode" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F8D46,50:FFD700,100:FFA116&height=3&section=header" width="100%" alt=""/>
 
 </div>
 
----
-
-### 💻 Programming Languages
+### 🛠️ Tech Stack
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,c,js" />
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,spring,hibernate,maven,tomcat,mysql,docker,kubernetes,linux,githubactions,git,github,postman,idea,vscode" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/DSA-1F2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-
-</div>
-
----
-
-### 🧠 Computer Science & Software Design
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-1F2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-
-<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-007396?style=for-the-badge&logo=java&logoColor=white" />
-
-<img src="https://img.shields.io/badge/LLD-Low%20Level%20Design-6C63FF?style=for-the-badge&logo=diagrams.net&logoColor=white" />
-
-<img src="https://img.shields.io/badge/System%20Design-Architecture-4B5563?style=for-the-badge&logo=databricks&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Design%20Patterns-8E44AD?style=for-the-badge&logo=dependabot&logoColor=white" />
-
-<img src="https://img.shields.io/badge/SOLID-Principles-34495E?style=for-the-badge&logo=codefactor&logoColor=white" />
-
-</div>
-
----
-
-### 🌐 Frontend Development
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-</div>
-
----
-
-### ⚙️ Backend & Java Ecosystem
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,tomcat" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Spring%20MVC-MVC%20Architecture-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Spring%20Data-Data%20Access-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JDBC-Database%20Connectivity-007396?style=for-the-badge&logo=java&logoColor=white" />
-
-<img src="https://img.shields.io/badge/REST%20API-API%20Development-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
-
-</div>
-
----
-
-### 🔐 Authentication & Security
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/JWT-JSON%20Web%20Token-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Authentication-Identity%20%26%20Access-2C3E50?style=for-the-badge&logo=auth0&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Session%20Management-State%20Management-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white" />
-
-</div>
-
----
-
-### 🗄️ Databases
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://img.shields.io/badge/SQL-Query%20Language-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JPA-Persistence%20API-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-
-</div>
-
----
-
-### 🐳 DevOps & Cloud
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions" />
-
-<br>
-
-<img src="https://img.shields.io/badge/CI%2FCD-Continuous%20Integration%20%26%20Delivery-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Containerization-Docker%20%26%20Kubernetes-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</div>
-
----
-
-### 🔧 Version Control & Tools
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,idea,eclipse,vscode" />
+<img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/LLD-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
 
@@ -241,139 +135,103 @@ I'm currently exploring:
 
 ## 🚀 Featured Projects
 
+<table width="100%">
+<tr>
+<td valign="top">
+
+### 👨‍💼 HR Synergy — HRMS &nbsp;<img src="https://img.shields.io/badge/⭐_Flagship-FFD700?style=flat-square&labelColor=1F2937&color=FFD700" alt="Flagship"/>
+
+Java Spring Boot **Human Resource Management System** with authentication, employee management (CRUD), REST APIs and MySQL.
+
+`Java` `Spring Boot` `Hibernate` `JDBC` `MySQL` `Thymeleaf` `Maven`
+
+🔗 **[Repo](https://github.com/divyansh1502/HRMS-Project)**
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+### 🍽️ QRder
+
+QR-based restaurant ordering with digital menus, order management and a commission-based model.
+
+`Java` `Spring Boot` `React` `MySQL`
+
+</td>
+
+<td width="33%" valign="top">
+
 ### 🎵 Spotify Clone
 
-A Spotify-inspired music streaming web application built to practice frontend development and interactive UI.
+Music streaming UI with an interactive player.
 
-* 🎵 Interactive music-player interface
-* 🎨 Modern and responsive UI
-* ▶️ Music browsing and playback functionality
-* ⚡ Built with HTML, CSS & JavaScript
-* 🔗 **[Repository](https://github.com/divyansh1502/Spotify.git)**
-* 🌐 **[Live Demo](https://divyansh1502.github.io/Spotify/)**
+`HTML` `CSS` `JavaScript`
 
----
+🔗 [Repo](https://github.com/divyansh1502/Spotify.git)
+🌐 [Demo](https://divyansh1502.github.io/Spotify/)
 
-### 👨‍💼 HR Synergy — Human Resource Management System
+</td>
 
-A Human Resource Management System developed during my Java Spring Boot internship.
+<td width="33%" valign="top">
 
-**Tech Stack:**
+### 🎮 Sidcup Golf Clone
 
-`Java` `Spring Boot` `Spring MVC` `Hibernate` `JDBC` `MySQL` `Thymeleaf` `Maven` `Git`
+Frontend recreation with smooth scrolling and interactive UI.
 
-**Key Features:**
+`HTML` `CSS` `JavaScript` `GSAP`
 
-* 🔐 Authentication & session management
-* 👨‍💼 Employee management
-* 📝 CRUD operations
-* 🔌 REST APIs
-* 🗄️ Relational database design
-* 🏗️ MVC architecture
-* 🔄 Hibernate ORM
-* 📦 Maven dependency management
+🔗 [Repo](https://github.com/divyansh1502/sidcup-golf-clone)
+🌐 [Demo](https://divyansh1502.github.io/sidcup-golf-web-clone/)
 
----
+</td>
 
-### 🍽️ QRder — QR-Based Food Ordering System
+</tr>
+</table>
 
-A QR-based food ordering system designed for restaurants and malls.
+<div align="center">
 
-**Concept:**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,50:B026FF,100:FF2E97&height=3&section=header" width="100%" alt=""/>
 
-```text
-Customer
-    │
-    ▼
-Scan QR Code
-    │
-    ▼
-Digital Menu
-    │
-    ▼
-Select Food
-    │
-    ▼
-Place Order
-    │
-    ▼
-Restaurant
-```
+<br/>
 
-* 📱 QR-based ordering
-* 🍔 Digital menu
-* 🧾 Order management
-* 💰 Commission-based business model
-* 🎯 Designed around a real-world use case
+## 🌆 GitHub Profile
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=FF2E97&center=true&vCenter=true&width=620&height=30&lines=%3E+INITIALIZING+NEON+GRID...;%3E+CODE+%E2%80%A2+COMMIT+%E2%80%A2+REPEAT;%3E+SYSTEM+ONLINE+%F0%9F%92%9C" alt="Neon typing"/>
 
-### 🎮 Sidcup Family Golf — Website Clone
+<br/>
 
-A frontend recreation of the Sidcup Family Golf website built from scratch.
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=divyansh1502&theme=dark&background=0B0014&border=B026FF&stroke=3A0F5C&border_radius=16&ring=FF2E97&fire=FF2E97&currStreakLabel=FF2E97&currStreakNum=FFFFFF&sideLabels=C77DFF&sideNums=FFFFFF&dates=9D8FB8" width="85%" alt="GitHub streak"/>
 
-* HTML5
-* CSS3
-* JavaScript
-* GSAP animations
-* Smooth scrolling
-* Interactive UI
+<br/><br/>
 
-🔗 **[Repository](https://github.com/divyansh1502/sidcup-golf-clone)**
-🌐 **[Live Demo](https://divyansh1502.github.io/sidcup-golf-web-clone/)**
+<!-- Stats + Top languages -->
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&bg_color=0B0014&border_color=B026FF&border_radius=16&title_color=FF2E97&icon_color=C77DFF&text_color=E0CFFF&ring_color=FF2E97" width="100%" alt="GitHub stats"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&bg_color=0B0014&border_color=B026FF&border_radius=16&title_color=FF2E97&text_color=E0CFFF" width="100%" alt="Top languages"/>
+</td>
+</tr>
+</table>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=2&section=header" width="100%"/>
-</p>
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=FFD700&center=true&vCenter=true&width=750&lines=Building+%F0%9F%9A%80;Breaking+%F0%9F%92%A5;Debugging+%F0%9F%90%9B;Learning+%F0%9F%A7%A0;Repeating+%F0%9F%94%A5" />
-</p>
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh1502&bg_color=0b0014&color=ff2e97&line=b026ff&point=ffffff&area=true&area_color=b026ff&hide_border=false&border_color=b026ff&radius=16" width="95%" alt="Contribution activity"/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:064E3B,33:22C55E,66:2DD4BF,100:06B6D4&height=2&section=header" width="100%"/>
-</p>
+<br/><br/>
 
-## 🔥 GitHub Profile
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2E97,50:B026FF,100:7B2FF7&height=3&section=header" width="100%" alt=""/>
 
-<!-- 🔵 Top Blue Wave -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=header&animation=fadeIn" width="100%"/>
-</p>
-
-<!-- 🔥 GitHub Contribution Streak -->
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=divyansh1502&theme=github-dark-blue&hide_border=false&border_radius=12&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=60A5FA&currStreakNum=FFFFFF&sideNums=FFFFFF"
-    width="82%"
-  />
-</p>
-
-<!-- 🔵 Bottom Blue Wave -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%"/>
-</p>
-
-## 💻 What I Build
-
-| Area                 | Technologies                                    |
-| -------------------- | ----------------------------------------------- |
-| 🧠 Problem Solving   | Java, DSA, Algorithms                           |
-| 🏗️ Software Design  | OOP, SOLID, Design Patterns, LLD, System Design |
-| ⚙️ Backend           | Spring Boot, Spring MVC, REST APIs              |
-| 🗄️ Database         | MySQL, JDBC, Hibernate, Spring Data             |
-| 🔐 Security          | JWT, Authentication, Session Management         |
-| 🎨 Frontend          | HTML, CSS, JavaScript, React                    |
-| 🐳 DevOps            | Linux, Docker, Kubernetes, CI/CD                |
-| 🔧 Development Tools | Git, GitHub, Maven, Postman                     |
-| 💻 IDEs              | IntelliJ IDEA, Eclipse, VS Code                 |
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=2&section=header" width="100%"/>
-</p>
+</div>
 
 ## 🐍 Contribution Graph
 
@@ -385,68 +243,6 @@ A frontend recreation of the Sidcup Family Golf website built from scratch.
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&section=header" width="100%"/>
-</p>
-
-## 🌐 Let's Connect
-
-<table width="100%">
-<tr>
-
-<td align="center" width="16.66%">
-
-<a href="https://www.linkedin.com/in/divyansh1502">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
-</a>
-
-
-</td>
-
-<td align="center" width="16.66%">
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyanshsingh786420@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" />
-</a>
-
-</td>
-
-<td align="center" width="16.66%">
-
-<a href="https://leetcode.com/divyansh_5ingh">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" />
-</a>
-
-</td>
-
-<td align="center" width="16.66%">
-
-<a href="https://takeuforward.org/profile/divyansh1502" target="_blank">
-  <img src="takeYouForward.jpg" width="45" height="45"/>
-</a>
-
-</td>
-
-<td align="center" width="16.66%">
-
-<a href="https://www.geeksforgeeks.org/profile/divyansh1502">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="45" height="45" />
-</a>
-
-</td>
-
-<td align="center" width="16.66%">
-
-<a href="https://x.com/divyansh_5ingh">
-  <img src="https://cdn.simpleicons.org/x/FFFFFF" width="45" height="45" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>
 </p>
 
 <p align="center">
