@@ -5,8 +5,7 @@
 <a href="https://www.linkedin.com/in/divyansh1502"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:divyanshsingh786420@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://x.com/divyansh_5ingh"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://github.com/divyansh1502"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/divyansh1502/divyansh1502/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-FFD700?style=flat-square&logo=readthedocs&logoColor=black" alt="Resume"/></a>
+<a href="https://github.com/divyansh1502/divyansh1502/assests/Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-FFD700?style=flat-square&logo=readthedocs&logoColor=black" alt="Resume"/></a>
 
 <br/><br/>
 
