@@ -5,11 +5,13 @@
 <a href="https://www.linkedin.com/in/divyansh1502"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:divyanshsingh786420@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://x.com/divyansh_5ingh"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://github.com/divyansh1502/divyansh1502/assests/Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-FFD700?style=flat-square&logo=readthedocs&logoColor=black" alt="Resume"/></a>
+<a href="https://github.com/divyansh1502"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="./assets/terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
+<a href="./assets/Resume.pdf?raw=true"><img src="https://img.shields.io/badge/%24%20.%2Fdownload%20resume-FFD700?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=0D1117" alt="Download Resume"/></a>
+
+<br/><br/>
 
 </div>
 
@@ -290,6 +292,8 @@ Frontend recreation with smooth scrolling and GSAP animations.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:FFD700,100:4F46E5&height=3&section=header" width="100%" alt=""/>
 
 <br/>
+
+<img src="./assets/terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
 
 ## 🐍 Contribution Snake
 
