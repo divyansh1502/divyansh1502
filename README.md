@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<img src="terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
+
 
 </div>
 
@@ -249,6 +249,11 @@ Frontend recreation with smooth scrolling and GSAP animations.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:4F46E5,100:0F172A&height=3&section=header" width="100%" alt=""/>
 
 <br/>
+
+<img src="terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:4F46E5,100:0F172A&height=3&section=header" width="100%" alt=""/>
+
 
 ## 📊 GitHub Stats
 
