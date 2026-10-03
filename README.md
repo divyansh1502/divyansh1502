@@ -42,7 +42,7 @@
 
 <td align="center" valign="middle" width="33%">
 <a href="https://takeuforward.org/profile/divyansh1502"><img src="./takeUforward.jpg" width="60" height="60" alt="TakeUForward"/></a><br/><br/>
-<a href="https://takeuforward.org/profile/divyansh1502"><img src="https://img.shields.io/badge/TakeUForward-%E2%86%92-FFD700?style=for-the-badge&labelColor=1F2937" alt="Open TakeUForward"/></a>
+<a href="https://takeuforward.org/profile/divyansh1502"><img src="https://img.shields.io/badge/TakeUForward-%E2%86%92-4169E1?style=for-the-badge&labelColor=1F2937" alt="Open TakeUForward"/></a>
 </td>
 
 <td align="center" valign="middle" width="33%">
