@@ -13,6 +13,7 @@
 
 <br/><br/>
 
+
 </div>
 
 <br/>
@@ -307,7 +308,11 @@ Frontend recreation with smooth scrolling and GSAP animations.
 
 <tr>
 <td align="center">
-<img src="./assets/snake.svg" width="100%" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/divyansh1502/divyansh1502/output/snake.svg" width="100%" alt="Contribution snake"/>
+<br/><br/>
+<code>$ git log --graph --contributions</code>
+<br/><br/>
+<img src="https://ghchart.rshah.org/4F46E5/divyansh1502" width="95%" alt="Contribution graph"/>
 </td>
 </tr>
 
