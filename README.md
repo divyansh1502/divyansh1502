@@ -7,13 +7,53 @@
 <a href="https://x.com/divyansh_5ingh"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://github.com/divyansh1502"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
+<br/><br/>
+
+<img src="./assets/terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
+
 </div>
 
 <br/>
 
-## About
+<div align="center">
 
-> Computer Science & Engineering student building **Java backend systems** with Spring Boot, REST APIs and MySQL, and sharpening problem solving through **DSA**. Currently learning **LLD, System Design, Docker & Kubernetes**.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:818CF8&height=3&section=header" width="100%" alt=""/>
+
+<br/>
+
+## 👋 About Me
+
+<table width="100%">
+
+<tr>
+<td align="left">
+🔴 🟡 🟢 &nbsp;<code>~/divyansh</code>&nbsp;&nbsp;<code>$ whoami</code>
+</td>
+</tr>
+
+<tr>
+<td align="left" valign="top">
+<code>$ cat about.txt</code>
+<br/><br/>
+Computer Science & Engineering student building <b>Java backend systems</b> with Spring Boot, REST APIs and MySQL, and sharpening problem solving through <b>DSA</b>.
+<br/><br/>
+<code>$ cat learning.txt</code>
+<br/><br/>
+Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernetes</b>.
+</td>
+</tr>
+
+<tr>
+<td align="left">
+<code>$ echo "Always learning."</code> &nbsp;<code>▌</code>
+</td>
+</tr>
+
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:818CF8,50:4F46E5,100:0F172A&height=3&section=header" width="100%" alt=""/>
+
+</div>
 
 <br/>
 
@@ -66,96 +106,187 @@
 
 <br/>
 
-## Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,js,html,css,docker,kubernetes,linux,git,github,postman,idea,vscode&perline=8" alt="Tech stack"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F8D46,50:4F46E5,100:0F172A&height=3&section=header" width="100%" alt=""/>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table width="100%">
+
+<tr>
+<td colspan="3" align="left">
+🔴 🟡 🟢 &nbsp;<code>~/divyansh/stack</code>&nbsp;&nbsp;<code>$ ls --all</code>
+</td>
+</tr>
+
+<tr>
+
+<td align="center" valign="top" width="33%">
+<code>$ ls backend/</code>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql&perline=4" alt="Backend"/>
+</td>
+
+<td align="center" valign="top" width="33%">
+<code>$ ls frontend/</code>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=4" alt="Frontend"/>
+</td>
+
+<td align="center" valign="top" width="33%">
+<code>$ ls devops-tools/</code>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git&perline=4" alt="DevOps"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=github,postman,idea,vscode&perline=4" alt="Tools"/>
+</td>
+
+</tr>
+
+<tr>
+<td colspan="3" align="left">
+<code>$ echo "Right tool, right job."</code> &nbsp;<code>▌</code>
+</td>
+</tr>
+
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:2F8D46&height=3&section=header" width="100%" alt=""/>
 
 </div>
 
 <br/>
 
-## Featured Projects
+<div align="center">
 
-<table width="100%">
-<tr>
-<td valign="top">
-
-### HR Synergy — Human Resource Management System
-
-Java Spring Boot application with authentication, employee management (CRUD), REST APIs and MySQL. Built during my Spring Boot internship.
-
-`Java` `Spring Boot` `Hibernate` `JDBC` `MySQL` `Thymeleaf` `Maven`
-
-**[Repo](https://github.com/divyansh1502/HRMS-Project)**
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-### QRder
-
-QR-based restaurant ordering with digital menus, order management and a commission-based model.
-
-`Java` `Spring Boot` `React` `MySQL`
-
-</td>
-
-<td width="33%" valign="top">
-
-### Spotify Clone
-
-Music streaming UI with an interactive player.
-
-`HTML` `CSS` `JavaScript`
-
-[Repo](https://github.com/divyansh1502/Spotify.git) · [Demo](https://divyansh1502.github.io/Spotify/)
-
-</td>
-
-<td width="33%" valign="top">
-
-### Sidcup Golf Clone
-
-Frontend recreation with smooth scrolling and GSAP animations.
-
-`HTML` `CSS` `JavaScript` `GSAP`
-
-[Repo](https://github.com/divyansh1502/sidcup-golf-clone) · [Demo](https://divyansh1502.github.io/sidcup-golf-web-clone/)
-
-</td>
-
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:818CF8,100:0F172A&height=3&section=header" width="100%" alt=""/>
 
 <br/>
 
-## GitHub Stats
+## 🚀 Featured Projects
+
+<table width="100%">
+
+<tr>
+<td colspan="3" align="left">
+🔴 🟡 🟢 &nbsp;<code>~/divyansh/projects</code>&nbsp;&nbsp;<code>$ ls --featured</code>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="left" valign="top">
+<code>$ cat hr-synergy/README.md</code>
+<br/><br/>
+<b>HR Synergy — Human Resource Management System</b>
+<br/>
+Java Spring Boot application with authentication, employee management (CRUD), REST APIs and MySQL. Built during my Spring Boot internship.
+<br/><br/>
+<code>Java</code> <code>Spring Boot</code> <code>Hibernate</code> <code>JDBC</code> <code>MySQL</code> <code>Thymeleaf</code> <code>Maven</code>
+<br/><br/>
+<code>$ git clone</code> &nbsp;<a href="https://github.com/divyansh1502/HRMS-Project"><img src="https://img.shields.io/badge/Repo-%E2%86%92-4F46E5?style=for-the-badge&labelColor=1F2937" alt="HR Synergy Repo"/></a>
+</td>
+</tr>
+
+<tr>
+
+<td width="33%" align="left" valign="top">
+<code>$ cat qrder/README.md</code>
+<br/><br/>
+<b>QRder</b>
+<br/>
+QR-based restaurant ordering with digital menus, order management and a commission-based model.
+<br/><br/>
+<code>Java</code> <code>Spring Boot</code> <code>React</code> <code>MySQL</code>
+</td>
+
+<td width="33%" align="left" valign="top">
+<code>$ cat spotify-clone/README.md</code>
+<br/><br/>
+<b>Spotify Clone</b>
+<br/>
+Music streaming UI with an interactive player.
+<br/><br/>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+<br/><br/>
+<a href="https://github.com/divyansh1502/Spotify.git"><img src="https://img.shields.io/badge/Repo-%E2%86%92-181717?style=flat-square&labelColor=1F2937" alt="Spotify Repo"/></a>
+<a href="https://divyansh1502.github.io/Spotify/"><img src="https://img.shields.io/badge/Demo-%E2%86%92-2F8D46?style=flat-square&labelColor=1F2937" alt="Spotify Demo"/></a>
+</td>
+
+<td width="33%" align="left" valign="top">
+<code>$ cat sidcup-golf/README.md</code>
+<br/><br/>
+<b>Sidcup Golf Clone</b>
+<br/>
+Frontend recreation with smooth scrolling and GSAP animations.
+<br/><br/>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>GSAP</code>
+<br/><br/>
+<a href="https://github.com/divyansh1502/sidcup-golf-clone"><img src="https://img.shields.io/badge/Repo-%E2%86%92-181717?style=flat-square&labelColor=1F2937" alt="Sidcup Golf Repo"/></a>
+<a href="https://divyansh1502.github.io/sidcup-golf-web-clone/"><img src="https://img.shields.io/badge/Demo-%E2%86%92-2F8D46?style=flat-square&labelColor=1F2937" alt="Sidcup Golf Demo"/></a>
+</td>
+
+</tr>
+
+<tr>
+<td colspan="3" align="left">
+<code>$ echo "Build. Break. Ship."</code> &nbsp;<code>▌</code>
+</td>
+</tr>
+
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:818CF8,100:4F46E5&height=3&section=header" width="100%" alt=""/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=divyansh1502&theme=dark&background=0D1117&border=30363D&stroke=30363D&border_radius=10&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" width="85%" alt="GitHub streak"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:4F46E5,100:0F172A&height=3&section=header" width="100%" alt=""/>
 
-<br/><br/>
+<br/>
+
+## 📊 GitHub Stats
 
 <table width="100%">
+
+<tr>
+<td colspan="2" align="left">
+🔴 🟡 🟢 &nbsp;<code>~/divyansh/github</code>&nbsp;&nbsp;<code>$ git log --stats</code>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="https://streak-stats.demolab.com/?user=divyansh1502&theme=dark&background=0D1117&border=30363D&stroke=30363D&border_radius=10&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" width="85%" alt="GitHub streak"/>
+</td>
+</tr>
+
 <tr>
 <td align="center" width="50%">
+<code>$ cat stats.json</code><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&bg_color=0D1117&border_color=30363D&border_radius=10&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700" width="100%" alt="GitHub stats"/>
 </td>
 <td align="center" width="50%">
+<code>$ cat languages.json</code><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&bg_color=0D1117&border_color=30363D&border_radius=10&title_color=FFD700&text_color=FFFFFF" width="100%" alt="Top languages"/>
 </td>
 </tr>
+
+<tr>
+<td colspan="2" align="left">
+<code>$ echo "Commit daily."</code> &nbsp;<code>▌</code>
+</td>
+</tr>
+
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:FFD700&height=3&section=header" width="100%" alt=""/>
+
 </div>
 
 <br/>
