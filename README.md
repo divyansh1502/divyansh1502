@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-
+<img src="./assets/terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
 
 </div>
 
@@ -101,6 +101,24 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F8D46,50:FFD700,100:FFA116&height=3&section=header" width="100%" alt=""/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFA116,50:4F46E5,100:2F8D46&height=3&section=header" width="100%" alt=""/>
+
+<br/>
+
+## 📡 Live Stats
+
+<img src="./assets/live-stats.svg" width="85%" alt="Live LeetCode and GitHub stats"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F8D46,50:4F46E5,100:FFA116&height=3&section=header" width="100%" alt=""/>
 
 </div>
 
@@ -246,14 +264,45 @@ Frontend recreation with smooth scrolling and GSAP animations.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:4F46E5,100:0F172A&height=3&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:FFD700,100:4F46E5&height=3&section=header" width="100%" alt=""/>
 
 <br/>
 
-<img src="terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
+## 🐍 Contribution Snake
+
+<table width="100%">
+
+<tr>
+<td align="left">
+🔴 🟡 🟢 &nbsp;<code>~/divyansh/contributions</code>&nbsp;&nbsp;<code>$ ./snake --eat</code>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/divyansh1502/divyansh1502/output/snake.svg" width="100%" alt="Contribution snake"/>
+</td>
+</tr>
+
+<tr>
+<td align="left">
+<code>$ echo "Every green square is a commit."</code> &nbsp;<code>▌</code>
+</td>
+</tr>
+
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:FFD700,100:4F46E5&height=3&section=header" width="100%" alt=""/>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,50:4F46E5,100:0F172A&height=3&section=header" width="100%" alt=""/>
 
+<br/>
 
 ## 📊 GitHub Stats
 
