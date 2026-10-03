@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<img src="./assets/terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
+<img src="terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
 
 </div>
 
