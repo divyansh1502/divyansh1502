@@ -9,7 +9,13 @@
 
 <br/><br/>
 
+<<<<<<< HEAD
 <a href="./assets/Resume.pdf?raw=true"><img src="./assets/resume-button.svg" width="320" alt="Download Resume"/></a>
+=======
+<a href="./assets/Resume.pdf?raw=true"><img src="https://img.shields.io/badge/%24%20.%2Fdownload%20resume-FFD700?style=for-the-badge&logo=gitbook&logoColor=black&labelColor=0D1117" alt="Download Resume"/></a>
+
+<br/><br/>
+>>>>>>> 0d806c784795b7f69ec8c6d5cb879c9bdec31f5a
 
 
 </div>
@@ -299,6 +305,8 @@ Frontend recreation with smooth scrolling and GSAP animations.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:FFD700,100:4F46E5&height=3&section=header" width="100%" alt=""/>
 
 <br/>
+
+<img src="./assets/terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
 
 ## 🐍 Contribution Snake
 
