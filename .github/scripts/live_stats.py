@@ -9,16 +9,19 @@ OUT = "assets/live-stats.svg"
 BG, GREEN, GOLD, IND, TXT, GREY = "#0D1117", "#3FB950", "#FFD700", "#A5B4FC", "#E6EDF3", "#8B949E"
 
 
+UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
+
+
 def post_json(url, payload):
     req = urllib.request.Request(url, json.dumps(payload).encode(), {
-        "Content-Type": "application/json", "User-Agent": "profile-readme-stats",
-        "Referer": "https://leetcode.com"})
+        "Content-Type": "application/json", "User-Agent": UA,
+        "Referer": "https://leetcode.com", "Origin": "https://leetcode.com"})
     with urllib.request.urlopen(req, timeout=20) as r:
         return json.load(r)
 
 
 def get_json(url):
-    h = {"User-Agent": "profile-readme-stats"}
+    h = {"User-Agent": UA}
     if os.getenv("GITHUB_TOKEN"):
         h["Authorization"] = "Bearer " + os.environ["GITHUB_TOKEN"]
     with urllib.request.urlopen(urllib.request.Request(url, headers=h), timeout=20) as r:
@@ -26,6 +29,31 @@ def get_json(url):
 
 
 def fetch_leetcode():
+    errors = []
+    for fn in (_lc_graphql, _lc_stats_api, _lc_alfa):
+        try:
+            return fn()
+        except Exception as e:
+            errors.append(f"{fn.__name__}: {e}")
+            print("LeetCode source failed ->", errors[-1])
+    raise RuntimeError("; ".join(errors))
+
+
+def _lc_stats_api():
+    d = get_json(f"https://leetcode-stats-api.herokuapp.com/{LC_USER}")
+    if d.get("status") != "success":
+        raise RuntimeError(d.get("message", "bad status"))
+    return {"Easy": (d["easySolved"], d["totalEasy"]), "Medium": (d["mediumSolved"], d["totalMedium"]),
+            "Hard": (d["hardSolved"], d["totalHard"]), "All": d["totalSolved"]}
+
+
+def _lc_alfa():
+    d = get_json(f"https://alfa-leetcode-api.onrender.com/{LC_USER}/solved")
+    return {"Easy": (d["easySolved"], 900), "Medium": (d["mediumSolved"], 1900),
+            "Hard": (d["hardSolved"], 850), "All": d["solvedProblem"]}
+
+
+def _lc_graphql():
     q = """query($u:String!){allQuestionsCount{difficulty count}
       matchedUser(username:$u){submitStats{acSubmissionNum{difficulty count}}}}"""
     d = post_json("https://leetcode.com/graphql", {"query": q, "variables": {"u": LC_USER}})["data"]
@@ -44,6 +72,7 @@ def fetch_github():
 def render(lc, gh):
     W, X, CW = 860, 34, 9.6
     live = lc is not None
+    synced = live or gh is not None
     css, body = [], []
     css.append(".m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;font-size:16px}")
     css.append("@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}")
@@ -75,7 +104,7 @@ def render(lc, gh):
     body.append(txt(X, y, "github    ", GOLD) + txt(X + 10 * CW, y,
         f"repos {gh['repos']}   stars {gh['stars']}   followers {gh['followers']}" if gh else "repos --   stars --   followers --", TXT))
     y += 34
-    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC") if live else "waiting for first sync"
+    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC") if synced else "waiting for first sync"
     body.append(txt(X, y, "# last sync: " + stamp, GREY))
     y += 34
     body.append(txt(X, y, "$", GREEN) + f'<rect class="bk" x="{X+2*CW}" y="{y-15}" width="{CW}" height="19" fill="{GOLD}"/>')
@@ -101,10 +130,17 @@ if __name__ == "__main__":
         lc = {"Easy": (120, 880), "Medium": (95, 1850), "Hard": (12, 830), "All": 227}
         gh = {"repos": 18, "stars": 7, "followers": 21}
     else:
+        lc = gh = None
         try:
-            lc, gh = fetch_leetcode(), fetch_github()
-        except Exception as e:  # keep the previous SVG if any API is down
-            print("fetch failed, keeping existing card:", e)
-            sys.exit(0)
+            gh = fetch_github()
+        except Exception as e:
+            print("GitHub fetch failed:", e)
+        try:
+            lc = fetch_leetcode()
+        except Exception as e:
+            print("LeetCode fetch failed:", e)
+        if lc is None and gh is None:
+            print("Both sources failed, keeping existing card.")
+            sys.exit(1)  # makes the Actions run go red so you can see it
     open(OUT, "w", encoding="utf-8").write(render(lc, gh))
     print("wrote", OUT)
