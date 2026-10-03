@@ -6,8 +6,11 @@
 <a href="mailto:divyanshsingh786420@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://x.com/divyansh_5ingh"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://github.com/divyansh1502"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/divyansh1502/divyansh1502/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-FFD700?style=flat-square&logo=readthedocs&logoColor=black" alt="Resume"/></a>
 
 <br/><br/>
+
+<img src="./assets/terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
 
 </div>
 
@@ -74,17 +77,17 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 <tr>
 
 <td align="center" valign="middle" width="33%">
-<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="./leetcode.png" width="60" height="60" alt="LeetCode"/></a><br/><br/>
+<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="./assets/leetcode.png" width="60" height="60" alt="LeetCode"/></a><br/><br/>
 <a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://img.shields.io/badge/LeetCode-%E2%86%92-FFA116?style=for-the-badge&labelColor=1F2937" alt="Open LeetCode"/></a>
 </td>
 
 <td align="center" valign="middle" width="33%">
-<a href="https://takeuforward.org/profile/divyansh1502"><img src="./takeUforward.jpg" width="60" height="60" alt="TakeUForward"/></a><br/><br/>
+<a href="https://takeuforward.org/profile/divyansh1502"><img src="./assets/takeUforward.jpg" width="60" height="60" alt="TakeUForward"/></a><br/><br/>
 <a href="https://takeuforward.org/profile/divyansh1502"><img src="https://img.shields.io/badge/TakeUForward-%E2%86%92-4169E1?style=for-the-badge&labelColor=1F2937" alt="Open TakeUForward"/></a>
 </td>
 
 <td align="center" valign="middle" width="33%">
-<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="./gfg.png" width="60" height="60" alt="GeeksforGeeks"/></a><br/><br/>
+<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="./assets/gfg.png" width="60" height="60" alt="GeeksforGeeks"/></a><br/><br/>
 <a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="https://img.shields.io/badge/GeeksforGeeks-%E2%86%92-2F8D46?style=for-the-badge&labelColor=1F2937" alt="Open GeeksforGeeks"/></a>
 </td>
 
@@ -187,43 +190,66 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 <table width="100%">
 
 <tr>
-<td colspan="3" align="left">
+<td colspan="6" align="left">
 🔴 🟡 🟢 &nbsp;<code>~/divyansh/projects</code>&nbsp;&nbsp;<code>$ ls --featured</code>
 </td>
 </tr>
 
 <tr>
-<td colspan="3" align="left" valign="top">
+
+<td colspan="3" width="50%" align="left" valign="top">
 <code>$ cat hr-synergy/README.md</code>
 <br/><br/>
 <b>HR Synergy — Human Resource Management System</b>
-<br/>
-Java Spring Boot application with authentication, employee management (CRUD), REST APIs and MySQL. Built during my Spring Boot internship.
 <br/><br/>
-<code>Java</code> <code>Spring Boot</code> <code>Hibernate</code> <code>JDBC</code> <code>MySQL</code> <code>Thymeleaf</code> <code>Maven</code>
+▸ Full-stack HR app for onboarding, applicant tracking and event coordination<br/>
+▸ RESTful APIs with CRUD workflows, built on Spring Boot and MVC<br/>
+▸ Role-based access control with credential management<br/>
+▸ Relational MySQL database with 8+ tables<br/>
+▸ Built during my Java Full Stack internship at Softpro India
 <br/><br/>
-<code>$ git clone</code> &nbsp;<a href="https://github.com/divyansh1502/HRMS-Project"><img src="https://img.shields.io/badge/Repo-%E2%86%92-4F46E5?style=for-the-badge&labelColor=1F2937" alt="HR Synergy Repo"/></a>
+<code>Java</code> <code>Spring Boot</code> <code>Hibernate</code> <code>MySQL</code> <code>Thymeleaf</code> <code>Bootstrap</code> <code>Maven</code>
+<br/><br/>
+<a href="https://github.com/divyansh1502/HRMS-Project"><img src="https://img.shields.io/badge/Repo-%E2%86%92-4F46E5?style=for-the-badge&labelColor=1F2937" alt="HR Synergy Repo"/></a>
 </td>
+
+<td colspan="3" width="50%" align="left" valign="top">
+<code>$ cat url-shortener/README.md</code>
+<br/><br/>
+<b>URL Shortener</b>
+<br/><br/>
+▸ Turns long URLs into short, shareable links<br/>
+▸ REST APIs to create a short link and redirect to the original<br/>
+▸ Unique short-code generation for every URL<br/>
+▸ Link data stored in MySQL
+<br/><br/>
+<code>Java</code> <code>Spring Boot</code> <code>REST APIs</code> <code>MySQL</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/Repo-coming%20soon-6B7280?style=for-the-badge&labelColor=1F2937" alt="Repo coming soon"/>
+</td>
+
 </tr>
 
 <tr>
 
-<td width="33%" align="left" valign="top">
+<td colspan="2" width="33%" align="left" valign="top">
 <code>$ cat qrder/README.md</code>
 <br/><br/>
 <b>QRder</b>
-<br/>
+<br/><br/>
 QR-based restaurant ordering with digital menus, order management and a commission-based model.
 <br/><br/>
 <code>Java</code> <code>Spring Boot</code> <code>React</code> <code>MySQL</code>
 </td>
 
-<td width="33%" align="left" valign="top">
+<td colspan="2" width="33%" align="left" valign="top">
 <code>$ cat spotify-clone/README.md</code>
 <br/><br/>
 <b>Spotify Clone</b>
-<br/>
-Music streaming UI with an interactive player.
+<br/><br/>
+▸ Responsive Spotify-inspired interface<br/>
+▸ Play/pause, track switching and a progress bar synced with the audio<br/>
+▸ Built with vanilla JavaScript and the browser audio API
 <br/><br/>
 <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 <br/><br/>
@@ -231,11 +257,11 @@ Music streaming UI with an interactive player.
 <a href="https://divyansh1502.github.io/Spotify/"><img src="https://img.shields.io/badge/Demo-%E2%86%92-2F8D46?style=flat-square&labelColor=1F2937" alt="Spotify Demo"/></a>
 </td>
 
-<td width="33%" align="left" valign="top">
+<td colspan="2" width="33%" align="left" valign="top">
 <code>$ cat sidcup-golf/README.md</code>
 <br/><br/>
 <b>Sidcup Golf Clone</b>
-<br/>
+<br/><br/>
 Frontend recreation with smooth scrolling and GSAP animations.
 <br/><br/>
 <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>GSAP</code>
@@ -247,7 +273,7 @@ Frontend recreation with smooth scrolling and GSAP animations.
 </tr>
 
 <tr>
-<td colspan="3" align="left">
+<td colspan="6" align="left">
 <code>$ echo "Build. Break. Ship."</code> &nbsp;<code>▌</code>
 </td>
 </tr>
@@ -266,8 +292,6 @@ Frontend recreation with smooth scrolling and GSAP animations.
 
 <br/>
 
-<img src="./assets/terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
-
 ## 🐍 Contribution Snake
 
 <table width="100%">
@@ -280,7 +304,7 @@ Frontend recreation with smooth scrolling and GSAP animations.
 
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/divyansh1502/divyansh1502/output/snake.svg" width="100%" alt="Contribution snake"/>
+<img src="./assets/snake.svg" width="100%" alt="Contribution snake"/>
 </td>
 </tr>
 
