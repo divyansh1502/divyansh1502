@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4F46E5&height=320&section=header&text=Divyansh%20Singh&fontSize=84&fontColor=F8FAFC&fontAlignY=38&desc=Java%20Backend%20Developer%20%C2%B7%20DSA%20%C2%B7%20System%20Design&descSize=28&descColor=C7D2FE&descAlignY=62" width="100%" alt="Divyansh Singh"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3590,100:4169E1&height=190&section=header&text=Divyansh%20Singh&fontSize=46&fontColor=F8FAFC&fontAlignY=40&desc=Java%20Backend%20Developer%20%C2%B7%20DSA%20%C2%B7%20System%20Design&descSize=16&descColor=FFC83D&descAlignY=62" width="100%" alt="Divyansh Singh"/>
 
 <a href="https://www.linkedin.com/in/divyansh1502"><img src="./assets/linkedin-btn.svg" width="100" alt="LinkedIn"/></a>
 <a href="https://x.com/divyansh_5ingh"><img src="./assets/x-btn.svg" width="100" alt="Follow on X"/></a>
@@ -379,6 +379,6 @@ Frontend recreation with smooth scrolling and GSAP animations.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0F172A&height=110&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:1B3590&height=110&section=footer" width="100%" alt=""/>
 
 </div>
