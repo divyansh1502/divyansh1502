@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4F46E5&height=190&section=header&text=Divyansh%20Singh&fontSize=46&fontColor=F8FAFC&fontAlignY=40&desc=Java%20Backend%20Developer%20%C2%B7%20DSA%20%C2%B7%20System%20Design&descSize=16&descColor=C7D2FE&descAlignY=62" width="100%" alt="Divyansh Singh"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:4F46E5&height=320&section=header&text=Divyansh%20Singh&fontSize=84&fontColor=F8FAFC&fontAlignY=38&desc=Java%20Backend%20Developer%20%C2%B7%20DSA%20%C2%B7%20System%20Design&descSize=28&descColor=C7D2FE&descAlignY=62" width="100%" alt="Divyansh Singh"/>
 
-<a href="https://www.linkedin.com/in/divyansh1502"><img src="./assets/linkedin-btn.svg" width="240" alt="LinkedIn"/></a>
-<a href="https://x.com/divyansh_5ingh"><img src="./assets/x-btn.svg" width="240" alt="Follow on X"/></a>
-<a href="mailto:divyanshsingh786420@gmail.com"><img src="./assets/gmail-btn.svg" width="240" alt="Email me"/></a>
+<a href="https://www.linkedin.com/in/divyansh1502"><img src="./assets/linkedin-btn.svg" width="100" alt="LinkedIn"/></a>
+<a href="https://x.com/divyansh_5ingh"><img src="./assets/x-btn.svg" width="100" alt="Follow on X"/></a>
+<a href="mailto:divyanshsingh786420@gmail.com"><img src="./assets/gmail-btn.svg" width="100" alt="Email me"/></a>
 
 <br/>
-<a href="./assets/Resume.pdf?raw=true"><img src="./assets/resume-button.svg" width="240" alt="Download Resume"/></a>
+<a href="./assets/Resume.pdf?raw=true"><img src="./assets/resume-button.svg" width="150" alt="Download Resume"/></a>
 </div>
 
 <br/>
