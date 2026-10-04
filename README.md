@@ -42,40 +42,17 @@
 
 <img src="./assets/h-grind.svg" width="420" alt="Where the Grind Happens"/>
 
-<table width="100%">
+<br/>
 
-<tr>
-<td colspan="3" align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/coding-profiles</code>&nbsp;&nbsp;<code>$ ls --platforms</code>
-</td>
-</tr>
+<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="./assets/lane-leetcode.svg" width="420" alt="Open my LeetCode profile"/></a>
+<br/>
+<a href="https://takeuforward.org/profile/divyansh1502"><img src="./assets/lane-takeuforward.svg" width="420" alt="Open my TakeUForward profile"/></a>
+<br/>
+<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="./assets/lane-gfg.svg" width="420" alt="Open my GeeksforGeeks profile"/></a>
 
-<tr>
+<br/><br/>
 
-<td align="center" valign="middle" width="33%">
-<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="./assets/leetcode.png" width="60" height="60" alt="LeetCode"/></a><br/><br/>
-<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="./assets/leetcode-btn.svg" width="92" alt="Open LeetCode"/></a>
-</td>
-
-<td align="center" valign="middle" width="33%">
-<a href="https://takeuforward.org/profile/divyansh1502"><img src="./assets/takeUforward.jpg" width="60" height="60" alt="TakeUForward"/></a><br/><br/>
-<a href="https://takeuforward.org/profile/divyansh1502"><img src="./assets/takeuforward-btn.svg" width="114" alt="Open TakeUForward"/></a>
-</td>
-
-<td align="center" valign="middle" width="33%">
-<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="./assets/gfg.png" width="60" height="60" alt="GeeksforGeeks"/></a><br/><br/>
-<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="./assets/gfg-btn.svg" width="122" alt="Open GeeksforGeeks"/></a>
-</td>
-
-</tr>
-
-<tr>
-<td colspan="3" align="left">
 <code>$ echo "Solve. Learn. Repeat."</code> &nbsp;<code>▌</code>
-</td>
-</tr>
-
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
 
