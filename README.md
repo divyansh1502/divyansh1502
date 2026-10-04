@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3590,100:4169E1&height=190&section=header&text=Divyansh%20Singh&fontSize=46&fontColor=F8FAFC&fontAlignY=40&desc=Java%20Backend%20Developer%20%C2%B7%20DSA%20%C2%B7%20System%20Design&descSize=16&descColor=FFC83D&descAlignY=62" width="100%" alt="Divyansh Singh"/>
-
-<img src="./assets/typing-tagline.svg" width="420" alt="Java Backend Developer, DSA, System Design"/>
+<img src="./assets/hero-intro.svg" width="100%" alt="Divyansh Singh, Java Backend Developer, DSA, System Design"/>
 
 
 <a href="https://www.linkedin.com/in/divyansh1502"><img src="./assets/linkedin-btn.svg" width="100" alt="LinkedIn"/></a>
