@@ -24,35 +24,11 @@
 
 <br/>
 
-## 👋 About Me
+<img src="./assets/h-about.svg" width="420" alt="About Me"/>
 
-<table width="100%">
+<br/>
 
-<tr>
-<td align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh</code>&nbsp;&nbsp;<code>$ whoami</code>
-</td>
-</tr>
-
-<tr>
-<td align="left" valign="top">
-<code>$ cat about.txt</code>
-<br/><br/>
-Computer Science & Engineering student building <b>Java backend systems</b> with Spring Boot, REST APIs and MySQL, and sharpening problem solving through <b>DSA</b>.
-<br/><br/>
-<code>$ cat learning.txt</code>
-<br/><br/>
-Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernetes</b>.
-</td>
-</tr>
-
-<tr>
-<td align="left">
-<code>$ echo "Always learning."</code> &nbsp;<code>▌</code>
-</td>
-</tr>
-
-</table>
+<img src="./assets/about-me.svg" width="420" alt="About Divyansh: Java backend developer, DSA, learning LLD, System Design, Docker and Kubernetes"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
 
@@ -66,7 +42,7 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 
 <br/>
 
-## 🔥 Where the Grind Happens
+<img src="./assets/h-grind.svg" width="420" alt="Where the Grind Happens"/>
 
 <table width="100%">
 
@@ -115,7 +91,7 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 
 <br/>
 
-## 📡 Live Stats
+<img src="./assets/h-live.svg" width="420" alt="Live Stats"/>
 
 <img src="./assets/live-stats.svg" width="85%" alt="Live LeetCode and GitHub stats"/>
 
@@ -133,7 +109,7 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 
 <br/>
 
-## 🛠️ Tech Stack
+<img src="./assets/h-tech.svg" width="420" alt="Tech Stack"/>
 
 <table width="100%">
 
@@ -169,44 +145,52 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 
 <br/>
 
-## 🚀 Featured Projects
+<img src="./assets/h-projects.svg" width="420" alt="Featured Projects"/>
 
 <table width="100%">
 
 <tr>
-<td align="left">
+<td colspan="2" align="left">
 🔴 🟡 🟢 &nbsp;<code>~/divyansh/projects</code>&nbsp;&nbsp;<code>$ ls --featured</code>
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<br/>
-<img src="./assets/project-hr-synergy.svg" width="420" alt="HR Synergy project card"/>
+<td align="center" valign="top" width="50%">
+<img src="./assets/project-hr-synergy.svg" width="100%" alt="HR Synergy project card"/>
 <br/>
 <a href="https://github.com/divyansh1502/HRMS-Project"><img src="./assets/repo-btn.svg" width="73" alt="HR Synergy Repo"/></a>
-<br/><br/>
-<img src="./assets/project-url-shortener.svg" width="420" alt="URL Shortener project card"/>
+</td>
+<td align="center" valign="top" width="50%">
+<img src="./assets/project-url-shortener.svg" width="100%" alt="URL Shortener project card"/>
 <br/>
 <img src="./assets/soon-btn.svg" width="73" alt="Repo coming soon"/>
-<br/><br/>
-<img src="./assets/project-qrder.svg" width="420" alt="QRder project card"/>
-<br/><br/>
-<img src="./assets/project-spotify-clone.svg" width="420" alt="Spotify Clone project card"/>
-<br/>
-<a href="https://github.com/divyansh1502/Spotify.git"><img src="./assets/repo-btn.svg" width="73" alt="Spotify Repo"/></a>
-<a href="https://divyansh1502.github.io/Spotify/"><img src="./assets/demo-btn.svg" width="73" alt="Spotify Demo"/></a>
-<br/><br/>
-<img src="./assets/project-sidcup-golf.svg" width="420" alt="Sidcup Golf Clone project card"/>
-<br/>
-<a href="https://github.com/divyansh1502/sidcup-golf-clone"><img src="./assets/repo-btn.svg" width="73" alt="Sidcup Golf Repo"/></a>
-<a href="https://divyansh1502.github.io/sidcup-golf-web-clone/"><img src="./assets/demo-btn.svg" width="73" alt="Sidcup Golf Demo"/></a>
-<br/><br/>
 </td>
 </tr>
 
 <tr>
-<td align="left">
+<td align="center" valign="top" colspan="2">
+<img src="./assets/project-spotify-clone.svg" width="100%" alt="Spotify Clone project card"/>
+<br/>
+<a href="https://github.com/divyansh1502/Spotify.git"><img src="./assets/repo-btn.svg" width="73" alt="Spotify Repo"/></a>
+<a href="https://divyansh1502.github.io/Spotify/"><img src="./assets/demo-btn.svg" width="73" alt="Spotify Demo"/></a>
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top" width="50%">
+<img src="./assets/project-sidcup-golf.svg" width="100%" alt="Sidcup Golf Clone project card"/>
+<br/>
+<a href="https://github.com/divyansh1502/sidcup-golf-clone"><img src="./assets/repo-btn.svg" width="73" alt="Sidcup Golf Repo"/></a>
+<a href="https://divyansh1502.github.io/sidcup-golf-web-clone/"><img src="./assets/demo-btn.svg" width="73" alt="Sidcup Golf Demo"/></a>
+</td>
+<td align="center" valign="top" width="50%">
+<img src="./assets/project-qrder.svg" width="100%" alt="QRder project card"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="left">
 <code>$ echo "Build. Break. Ship."</code> &nbsp;<code>▌</code>
 </td>
 </tr>
@@ -233,7 +217,7 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 
 <br/>
 
-## 🐍 Contribution Snake
+<img src="./assets/h-snake.svg" width="420" alt="Contribution Snake"/>
 
 <table width="100%">
 
@@ -273,7 +257,7 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 
 <br/>
 
-## 📊 GitHub Stats
+<img src="./assets/h-github.svg" width="420" alt="GitHub Stats"/>
 
 <table width="100%">
 
@@ -322,7 +306,7 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 
 <br/>
 
-## 🏆 Trophies & Profile Views
+<img src="./assets/h-trophies.svg" width="420" alt="Trophies and Profile Views"/>
 
 <table width="100%">
 
@@ -334,7 +318,7 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 
 <tr>
 <td align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=divyansh1502&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=4&row=2"><source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=divyansh1502&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=4&row=2"><img src="https://github-profile-trophy.vercel.app/?username=divyansh1502&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=4&row=2" width="95%" alt="GitHub trophies"/></picture>
+<img src="./assets/achievements.svg" width="420" alt="Highlights: internship, 5 projects, 3 coding platforms, always learning"/>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=divyansh1502&label=PROFILE+VIEWS&color=4169E1&style=for-the-badge" alt="Profile views"/>
 </td>
