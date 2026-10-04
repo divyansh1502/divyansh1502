@@ -165,46 +165,6 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
-
-<br/>
-
-## ⚡ Skill Levels & Fun Facts
-
-<table width="100%">
-
-<tr>
-<td align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/skills</code>&nbsp;&nbsp;<code>$ ./levels --animate</code>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="./assets/skill-bars.svg" width="420" alt="Animated skill level bars"/>
-<br/><br/>
-<code>$ cat fun-facts.txt</code>
-<br/><br/>
-<img src="./assets/fun-facts.svg" width="420" alt="Fun facts"/>
-</td>
-</tr>
-
-<tr>
-<td align="left">
-<code>$ echo "Levels go up every commit."</code> &nbsp;<code>▌</code>
-</td>
-</tr>
-
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3590,50:4169E1,100:FFC83D&height=3&section=header" width="100%" alt=""/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3590,50:4169E1,100:FFC83D&height=3&section=header" width="100%" alt=""/>
 
 <br/>
@@ -214,90 +174,39 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 <table width="100%">
 
 <tr>
-<td colspan="6" align="left">
+<td align="left">
 🔴 🟡 🟢 &nbsp;<code>~/divyansh/projects</code>&nbsp;&nbsp;<code>$ ls --featured</code>
 </td>
 </tr>
 
 <tr>
-
-<td colspan="3" width="50%" align="left" valign="top">
-<code>$ cat hr-synergy/README.md</code>
-<br/><br/>
-<b>HR Synergy — Human Resource Management System</b>
-<br/><br/>
-▸ Full-stack HR app for onboarding, applicant tracking and event coordination<br/>
-▸ RESTful APIs with CRUD workflows, built on Spring Boot and MVC<br/>
-▸ Role-based access control with credential management<br/>
-▸ Relational MySQL database with 8+ tables<br/>
-▸ Built during my Java Full Stack internship at Softpro India
-<br/><br/>
-<code>Java</code> <code>Spring Boot</code> <code>Hibernate</code> <code>MySQL</code> <code>Thymeleaf</code> <code>Bootstrap</code> <code>Maven</code>
-<br/><br/>
+<td align="center">
+<br/>
+<img src="./assets/project-hr-synergy.svg" width="420" alt="HR Synergy project card"/>
+<br/>
 <a href="https://github.com/divyansh1502/HRMS-Project"><img src="./assets/repo-btn.svg" width="73" alt="HR Synergy Repo"/></a>
-</td>
-
-<td colspan="3" width="50%" align="left" valign="top">
-<code>$ cat url-shortener/README.md</code>
 <br/><br/>
-<b>URL Shortener</b>
-<br/><br/>
-▸ Turns long URLs into short, shareable links<br/>
-▸ REST APIs to create a short link and redirect to the original<br/>
-▸ Unique short-code generation for every URL<br/>
-▸ Link data stored in MySQL
-<br/><br/>
-<code>Java</code> <code>Spring Boot</code> <code>REST APIs</code> <code>MySQL</code>
-<br/><br/>
+<img src="./assets/project-url-shortener.svg" width="420" alt="URL Shortener project card"/>
+<br/>
 <img src="./assets/soon-btn.svg" width="73" alt="Repo coming soon"/>
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" width="33%" align="left" valign="top">
-<code>$ cat qrder/README.md</code>
 <br/><br/>
-<b>QRder</b>
+<img src="./assets/project-qrder.svg" width="420" alt="QRder project card"/>
 <br/><br/>
-QR-based restaurant ordering with digital menus, order management and a commission-based model.
-<br/><br/>
-<code>Java</code> <code>Spring Boot</code> <code>React</code> <code>MySQL</code>
-</td>
-
-<td colspan="2" width="33%" align="left" valign="top">
-<code>$ cat spotify-clone/README.md</code>
-<br/><br/>
-<b>Spotify Clone</b>
-<br/><br/>
-▸ Responsive Spotify-inspired interface<br/>
-▸ Play/pause, track switching and a progress bar synced with the audio<br/>
-▸ Built with vanilla JavaScript and the browser audio API
-<br/><br/>
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-<br/><br/>
+<img src="./assets/project-spotify-clone.svg" width="420" alt="Spotify Clone project card"/>
+<br/>
 <a href="https://github.com/divyansh1502/Spotify.git"><img src="./assets/repo-btn.svg" width="73" alt="Spotify Repo"/></a>
 <a href="https://divyansh1502.github.io/Spotify/"><img src="./assets/demo-btn.svg" width="73" alt="Spotify Demo"/></a>
-</td>
-
-<td colspan="2" width="33%" align="left" valign="top">
-<code>$ cat sidcup-golf/README.md</code>
 <br/><br/>
-<b>Sidcup Golf Clone</b>
-<br/><br/>
-Frontend recreation with smooth scrolling and GSAP animations.
-<br/><br/>
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>GSAP</code>
-<br/><br/>
+<img src="./assets/project-sidcup-golf.svg" width="420" alt="Sidcup Golf Clone project card"/>
+<br/>
 <a href="https://github.com/divyansh1502/sidcup-golf-clone"><img src="./assets/repo-btn.svg" width="73" alt="Sidcup Golf Repo"/></a>
 <a href="https://divyansh1502.github.io/sidcup-golf-web-clone/"><img src="./assets/demo-btn.svg" width="73" alt="Sidcup Golf Demo"/></a>
+<br/><br/>
 </td>
-
 </tr>
 
 <tr>
-<td colspan="6" align="left">
+<td align="left">
 <code>$ echo "Build. Break. Ship."</code> &nbsp;<code>▌</code>
 </td>
 </tr>
