@@ -138,37 +138,19 @@ Currently learning <b>LLD</b>, <b>System Design</b>, <b>Docker</b> & <b>Kubernet
 <table width="100%">
 
 <tr>
-<td colspan="3" align="left">
+<td align="left">
 🔴 🟡 🟢 &nbsp;<code>~/divyansh/stack</code>&nbsp;&nbsp;<code>$ ls --all</code>
 </td>
 </tr>
 
 <tr>
-
-<td align="center" valign="top" width="33%">
-<code>$ ls backend/</code>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql&perline=4" alt="Backend"/>
+<td align="center">
+<img src="./assets/tech-stack.svg" width="420" alt="Tech stack: Java, Spring Boot, Hibernate, MySQL, React, JavaScript, HTML, CSS, Docker, Kubernetes, Linux, Git, GitHub, Postman, IntelliJ IDEA, VS Code"/>
 </td>
-
-<td align="center" valign="top" width="33%">
-<code>$ ls frontend/</code>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=4" alt="Frontend"/>
-</td>
-
-<td align="center" valign="top" width="33%">
-<code>$ ls devops-tools/</code>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git&perline=4" alt="DevOps"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=github,postman,idea,vscode&perline=4" alt="Tools"/>
-</td>
-
 </tr>
 
 <tr>
-<td colspan="3" align="left">
+<td align="left">
 <code>$ echo "Right tool, right job."</code> &nbsp;<code>▌</code>
 </td>
 </tr>
