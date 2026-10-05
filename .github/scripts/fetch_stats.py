@@ -4,8 +4,8 @@ fetch_stats.py - fetch GitHub (and optional LeetCode) stats and render the
 profile stats cards as SVG.
 
 Outputs
-  assets/gh-stats-wide.svg    (desktop card, used in <picture> min-width: 760px)
-  assets/gh-stats-mobile.svg  (mobile card, fallback <img>)
+  assets/github-stats.svg    (desktop card, used in <picture> min-width: 760px)
+  assets/github-stats.svg  (mobile card, fallback <img>)
   data/stats.json             (raw numbers, handy for other cards)
 
 Usage
@@ -480,15 +480,15 @@ def main():
 
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
-    (out / "gh-stats-wide.svg").write_text(render_wide(stats), encoding="utf-8")
-    (out / "gh-stats-mobile.svg").write_text(render_mobile(stats), encoding="utf-8")
+    (out / "github-stats.svg").write_text(render_wide(stats), encoding="utf-8")
+    (out / "github-stats.svg").write_text(render_mobile(stats), encoding="utf-8")
 
     data_path = Path(args.data)
     data_path.parent.mkdir(parents=True, exist_ok=True)
     slim = {k: v for k, v in stats.items() if k != "days"}
     slim["updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     data_path.write_text(json.dumps(slim, indent=2), encoding="utf-8")
-    print(f"Wrote {out / 'gh-stats-wide.svg'}, {out / 'gh-stats-mobile.svg'} and {data_path}")
+    print(f"Wrote {out / 'github-stats.svg'} and {data_path}")
 
 
 if __name__ == "__main__":
