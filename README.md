@@ -88,7 +88,7 @@
 
 <br/>
 
-<img src="./assets/tech-stack.svg" width="420" alt="Tech stack: Java, Spring Boot, Hibernate, JPA, JDBC, REST APIs, Maven, JUnit, React, MySQL, Docker, Kubernetes, DSA, OOP, LLD, System Design and more"/>
+<img src="./assets/tech-stack-v2.svg" width="420" alt="Tech stack: Java, Spring Boot, Hibernate, JPA, JDBC, REST APIs, Maven, JUnit, React, MySQL, Docker, Kubernetes, DSA, OOP, LLD, System Design and more"/>
 
 <br/><br/>
 
