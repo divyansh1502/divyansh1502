@@ -223,38 +223,16 @@
 
 <img src="./assets/h-github.svg" width="420" alt="GitHub Stats"/>
 
-<table width="100%">
+<br/>
 
-<tr>
-<td colspan="2" align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/github</code>&nbsp;&nbsp;<code>$ git log --stats</code>
-</td>
-</tr>
+<picture>
+<source media="(min-width: 760px)" srcset="./assets/gh-stats-wide.svg">
+<img src="./assets/gh-stats-mobile.svg" alt="GitHub stats: contribution streak, commits, pull requests, issues, stars, repositories, followers and top languages"/>
+</picture>
 
-<tr>
-<td colspan="2" align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=divyansh1502&theme=dark&background=0D1117&border=30363D&stroke=30363D&border_radius=10&ring=4169E1&fire=FFC83D&currStreakLabel=FFC83D&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=C9D1D9"><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=divyansh1502&theme=default&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&border_radius=10&ring=4169E1&fire=E5A800&currStreakLabel=1B3590&currStreakNum=0D1117&sideLabels=1B3590&sideNums=0D1117&dates=57606A"><img src="https://streak-stats.demolab.com/?user=divyansh1502&theme=dark&background=0D1117&border=30363D&stroke=30363D&border_radius=10&ring=4169E1&fire=FFC83D&currStreakLabel=FFC83D&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" width="85%" alt="GitHub streak"/></picture>
-</td>
-</tr>
+<br/><br/>
 
-<tr>
-<td align="center" width="50%">
-<code>$ cat stats.json</code><br/><br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&bg_color=0D1117&border_color=30363D&border_radius=10&title_color=FFC83D&icon_color=4169E1&text_color=FFFFFF&ring_color=4169E1"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&bg_color=FFFFFF&border_color=D0D7DE&border_radius=10&title_color=1B3590&icon_color=4169E1&text_color=24292F&ring_color=4169E1"><img src="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&bg_color=0D1117&border_color=30363D&border_radius=10&title_color=FFC83D&icon_color=4169E1&text_color=FFFFFF&ring_color=4169E1" width="100%" alt="GitHub stats"/></picture>
-</td>
-<td align="center" width="50%">
-<code>$ cat languages.json</code><br/><br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&bg_color=0D1117&border_color=30363D&border_radius=10&title_color=FFC83D&text_color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&bg_color=FFFFFF&border_color=D0D7DE&border_radius=10&title_color=1B3590&text_color=24292F"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&bg_color=0D1117&border_color=30363D&border_radius=10&title_color=FFC83D&text_color=FFFFFF" width="100%" alt="Top languages"/></picture>
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="left">
 <code>$ echo "Commit daily."</code> &nbsp;<code>▌</code>
-</td>
-</tr>
-
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
 
