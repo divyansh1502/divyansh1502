@@ -86,27 +86,13 @@
 
 <img src="./assets/h-tech.svg" width="420" alt="Tech Stack"/>
 
-<table width="100%">
+<br/>
 
-<tr>
-<td align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/stack</code>&nbsp;&nbsp;<code>$ ls --all</code>
-</td>
-</tr>
+<img src="./assets/tech-stack.svg" width="420" alt="Tech stack: Java, Spring Boot, Hibernate, JPA, JDBC, REST APIs, Maven, JUnit, React, MySQL, Docker, Kubernetes, DSA, OOP, LLD, System Design and more"/>
 
-<tr>
-<td align="center">
-<img src="./assets/tech-stack.svg" width="420" alt="Tech stack: Java, Spring Boot, Hibernate, MySQL, React, JavaScript, HTML, CSS, Docker, Kubernetes, Linux, Git, GitHub, Postman, IntelliJ IDEA, VS Code"/>
-</td>
-</tr>
+<br/><br/>
 
-<tr>
-<td align="left">
 <code>$ echo "Right tool, right job."</code> &nbsp;<code>▌</code>
-</td>
-</tr>
-
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
 
