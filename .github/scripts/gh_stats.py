@@ -51,38 +51,44 @@ contributionCalendar{totalContributions weeks{contributionDays{date contribution
 def fmt_day(d):
     return d.strftime("%b ") + str(d.day)
 
+def compute_streaks(days, today):
+    """days: {'YYYY-MM-DD': count}. Returns (current, longest) as (length, start, end)."""
+    streaks, run, start, prev = [], 0, None, None
+    for ds in sorted(days):
+        d = datetime.date.fromisoformat(ds)
+        if d > today:
+            continue
+        if days[ds] > 0:
+            if prev is not None and (d - prev).days == 1:
+                run += 1
+            else:
+                run, start = 1, d
+            prev = d
+            streaks.append((run, start, d))
+        else:
+            run, prev = 0, None
+    best = max(streaks, key=lambda t: t[0]) if streaks else (0, None, None)
+    cur = (0, None, None)
+    if streaks and (today - streaks[-1][2]).days <= 1:
+        cur = streaks[-1]
+    return cur, best
+
 def fetch(token, login):
     u = gql(token, Q_USER, {"login": login})["user"]
     days, commits = {}, 0
     for y in u["contributionsCollection"]["contributionYears"]:
-        c = gql(token, Q_YEAR, {"login": login, "from": "%d-01-01T00:00:00Z" % y, "to": "%d-12-31T23:59:59Z" % y})["user"]["contributionsCollection"]
+        try:
+            c = gql(token, Q_YEAR, {"login": login, "from": "%d-01-01T00:00:00Z" % y, "to": "%d-12-31T23:59:59Z" % y})["user"]["contributionsCollection"]
+        except Exception as e:
+            print("skipping year", y, "->", e)
+            continue
         commits += c["totalCommitContributions"]
         for w in c["contributionCalendar"]["weeks"]:
             for d in w["contributionDays"]:
                 days[d["date"]] = d["contributionCount"]
-    dates = sorted(days)
-    today = datetime.date.today()
-    # longest + current streak
-    best = (0, None, None); run = 0; start = None; prev = None
-    streaks = []
-    for ds in dates:
-        d = datetime.date.fromisoformat(ds)
-        if days[ds] > 0:
-            if prev is not None and (d - prev).days == 1 and run > 0:
-                run += 1
-            else:
-                run = 1; start = d
-            prev = d
-            streaks.append((run, start, d))
-        else:
-            run = 0; prev = None
-    if streaks:
-        best = max(streaks, key=lambda s: s[0])
-    cur = (0, None, None)
-    if streaks:
-        last = streaks[-1]
-        if (today - last[2]).days <= 1:
-            cur = last
+    cur, best = compute_streaks(days, datetime.date.today())
+    print("years fetched:", len(u["contributionsCollection"]["contributionYears"]), "| days:", len(days),
+          "| total contributions:", sum(days.values()), "| current streak:", cur[0], "| longest:", best[0])
     langs = {}
     stars = 0
     for r in u["repositories"]["nodes"]:
