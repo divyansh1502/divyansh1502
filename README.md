@@ -226,8 +226,8 @@
 <br/>
 
 <picture>
-<source media="(min-width: 760px)" srcset="./assets/gh-stats-wide.svg">
-<img src="./assets/gh-stats-mobile.svg" alt="GitHub stats: contribution streak, commits, pull requests, issues, stars, repositories, followers and top languages"/>
+<source media="(min-width: 760px)" srcset="./assets/github-stats.svg">
+<img src="./assets/github-stats.svg" alt="GitHub stats: contribution streak, commits, pull requests, issues, stars, repositories, followers and top languages"/>
 </picture>
 
 <br/><br/>
