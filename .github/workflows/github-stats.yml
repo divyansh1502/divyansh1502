@@ -116,7 +116,8 @@ jobs:
                   for w in c["contributionCalendar"]["weeks"]:
                       for d in w["contributionDays"]:
                           days[d["date"]] = d["contributionCount"]
-              cur, best = compute_streaks(days, datetime.date.today())
+              today = datetime.date.today()
+              cur, best = compute_streaks(days, today)
               print("years fetched:", len(u["contributionsCollection"]["contributionYears"]), "| days:", len(days),
                     "| total contributions:", sum(days.values()), "| current streak:", cur[0], "| longest:", best[0])
               langs = {}
