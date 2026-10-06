@@ -4,37 +4,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FFC83D&center=true&vCenter=true&width=620&height=40&lines=Java+Backend+Developer;DSA+Problem+Solver;Learning+LLD+%26+System+Design;Docker+%C2%B7+Kubernetes+%C2%B7+Spring+Boot" alt="Typing roles"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/divyansh1502"><img src="https://img.shields.io/badge/-LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/divyansh_5ingh"><img src="https://img.shields.io/badge/-X-0A1026?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:divyanshsingh786420@gmail.com"><img src="https://img.shields.io/badge/-Email-1B3590?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="./assets/Resume.pdf?raw=true"><img src="https://img.shields.io/badge/-Resume-FFC83D?style=for-the-badge&logo=readme&logoColor=black" alt="Resume"/></a>
-<a href="mailto:divyanshsingh786420@gmail.com?subject=Opportunity"><img src="https://img.shields.io/badge/-Open_to_work-22c55e?style=for-the-badge" alt="Open to work"/></a>
+<a href="https://www.linkedin.com/in/divyansh1502"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="38" alt="LinkedIn" title="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/divyansh_5ingh"><img src="https://cdn.simpleicons.org/x/6e7681" height="38" alt="X" title="X"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:divyanshsingh786420@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="38" alt="Gmail" title="Gmail"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/divyansh1502"><img src="https://cdn.simpleicons.org/github/6e7681" height="38" alt="GitHub" title="GitHub"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="38" alt="LeetCode" title="LeetCode"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="38" alt="GeeksforGeeks" title="GeeksforGeeks"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://takeuforward.org/profile/divyansh1502"><img src="https://img.shields.io/badge/TUF-4169E1?style=for-the-badge" height="30" alt="TakeUForward" title="TakeUForward"/></a>
+
+<br/><br/>
+
+<a href="./assets/Resume.pdf?raw=true"><img src="https://img.shields.io/badge/📄_Resume-FFC83D?style=for-the-badge&logoColor=black" alt="Resume"/></a>
+<a href="mailto:divyanshsingh786420@gmail.com?subject=Opportunity"><img src="https://img.shields.io/badge/✅_Open_to_work-22c55e?style=for-the-badge" alt="Open to work"/></a>
 
 </div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/streak</code>&nbsp;&nbsp;<code>$ git log --streak</code>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://streak-stats.demolab.com/?user=divyansh1502&theme=dark&hide_border=true&background=0A1026&ring=FFC83D&fire=FFC83D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC83D&sideLabels=8FA2D9&dates=8FA2D9&stroke=4169E1" width="95%" alt="GitHub streak"/>
-<br/>
-<img src="https://ghchart.rshah.org/4169E1/divyansh1502" width="95%" alt="Contribution graph"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<code>$ echo "Every green square is a commit."</code> &nbsp;<code>▌</code>
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -65,18 +50,11 @@
 
 <br/>
 
-### 👋 About
-
-> Java backend developer who loves solving DSA problems.
-> Currently learning **LLD**, **System Design**, **Docker** and **Kubernetes**.
-
-<br/>
-
 ### 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,mysql,docker,kubernetes&theme=dark" alt="Core stack"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,mysql,docker,kubernetes,git,github,vscode&theme=dark" alt="Stack and tools"/>
 
 <br/><br/>
 
@@ -93,15 +71,61 @@
 
 <br/>
 
-### 🚀 Projects
+<table width="100%">
+<tr>
+<td colspan="2" align="left">
+🔴 🟡 🟢 &nbsp;<code>~/divyansh/projects</code>&nbsp;&nbsp;<code>$ ls --featured</code>
+</td>
+</tr>
+<tr>
+<td><b>👥 HR Synergy</b></td>
+<td><a href="https://github.com/divyansh1502/HRMS-Project"><img src="https://img.shields.io/badge/Repo-0A1026?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
+</tr>
+<tr>
+<td><b>🔗 URL Shortener</b></td>
+<td><img src="https://img.shields.io/badge/Repo-Coming_Soon-6e7681?style=flat-square" alt="Coming soon"/></td>
+</tr>
+<tr>
+<td><b>🎵 Spotify Clone</b></td>
+<td>
+<a href="https://github.com/divyansh1502/Spotify.git"><img src="https://img.shields.io/badge/Repo-0A1026?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
+<a href="https://divyansh1502.github.io/Spotify/"><img src="https://img.shields.io/badge/Live_Demo-4169E1?style=flat-square" alt="Demo"/></a>
+</td>
+</tr>
+<tr>
+<td><b>⛳ Sidcup Golf Clone</b></td>
+<td>
+<a href="https://github.com/divyansh1502/sidcup-golf-clone"><img src="https://img.shields.io/badge/Repo-0A1026?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
+<a href="https://divyansh1502.github.io/sidcup-golf-web-clone/"><img src="https://img.shields.io/badge/Live_Demo-4169E1?style=flat-square" alt="Demo"/></a>
+</td>
+</tr>
+<tr>
+<td><b>📱 QRder</b></td>
+<td>—</td>
+</tr>
+</table>
 
-| Project | Links |
-|:--|:--|
-| **HR Synergy** | [Repo](https://github.com/divyansh1502/HRMS-Project) |
-| **URL Shortener** | Repo coming soon |
-| **Spotify Clone** | [Repo](https://github.com/divyansh1502/Spotify.git) · [Demo](https://divyansh1502.github.io/Spotify/) |
-| **Sidcup Golf Clone** | [Repo](https://github.com/divyansh1502/sidcup-golf-clone) · [Demo](https://divyansh1502.github.io/sidcup-golf-web-clone/) |
-| **QRder** | — |
+<br/>
+
+<table width="100%">
+<tr>
+<td align="left">
+🔴 🟡 🟢 &nbsp;<code>~/divyansh/streak</code>&nbsp;&nbsp;<code>$ git log --streak</code>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://streak-stats.demolab.com/?user=divyansh1502&theme=dark&hide_border=true&background=0A1026&ring=FFC83D&fire=FFC83D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC83D&sideLabels=8FA2D9&dates=8FA2D9&stroke=4169E1" width="95%" alt="GitHub streak"/>
+<br/>
+<img src="https://ghchart.rshah.org/4169E1/divyansh1502" width="95%" alt="Contribution graph"/>
+</td>
+</tr>
+<tr>
+<td align="left">
+<code>$ echo "Every green square is a commit."</code> &nbsp;<code>▌</code>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
