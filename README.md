@@ -103,7 +103,7 @@
 </td>
 </tr>
 <tr>
-<td width="18%"><b>👥 HR Synergy</b></td>
+<td width="18%"><b>👥 HR Synergy </b></td>
 <td><a href="https://github.com/divyansh1502/HRMS-Project"><img src="https://img.shields.io/badge/Repo-0A1026?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
 <td rowspan="5" align="center" valign="middle" width="28%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&theme=dark&hide_border=true&bg_color=0A1026&title_color=FFC83D&text_color=8FA2D9&langs_count=6" width="100%" alt="Top languages"/>
