@@ -26,20 +26,18 @@
 
 <table width="100%">
 <tr>
-<td colspan="2" align="left">
+<td align="left">
 🔴 🟡 🟢 &nbsp;<code>~/divyansh/grind</code>&nbsp;&nbsp;<code>$ ls --stats</code>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle" width="50%">
-<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://leetcard.jacoblin.cool/divyansh_5ingh?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" alt="LeetCode stats"/></a>
-</td>
-<td align="center" valign="middle" width="50%">
-<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=divyansh1502&theme=dark" width="100%" alt="GeeksforGeeks stats"/></a>
+<td align="center" valign="middle">
+<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://leetcard.jacoblin.cool/divyansh_5ingh?theme=dark&font=Fira%20Code&ext=heatmap&v=2" width="49%" alt="LeetCode stats"/></a>
+<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=divyansh1502&theme=dark&v=2" width="49%" alt="GeeksforGeeks stats"/></a>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="left">
+<td align="left">
 <code>$ echo "Solve. Learn. Repeat."</code> &nbsp;<code>▌</code>
 </td>
 </tr>
@@ -106,10 +104,10 @@
 <td width="18%"><b>👥 HR Synergy </b></td>
 <td><a href="https://github.com/divyansh1502/HRMS-Project"><img src="https://img.shields.io/badge/Repo-0A1026?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
 <td rowspan="5" align="center" valign="middle" width="28%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&theme=dark&hide_border=true&bg_color=0A1026&title_color=FFC83D&text_color=8FA2D9&langs_count=6" width="100%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&theme=dark&hide_border=true&bg_color=0A1026&title_color=FFC83D&text_color=8FA2D9&langs_count=6&v=2" width="100%" alt="Top languages"/>
 </td>
 <td rowspan="5" align="center" valign="middle" width="28%">
-<img src="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&theme=dark&hide_border=true&bg_color=0A1026&title_color=FFC83D&text_color=8FA2D9&icon_color=4169E1&hide_rank=true" width="100%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&theme=dark&hide_border=true&bg_color=0A1026&title_color=FFC83D&text_color=8FA2D9&icon_color=4169E1&hide_rank=true&v=2" width="100%" alt="GitHub stats"/>
 </td>
 </tr>
 <tr>
@@ -140,20 +138,18 @@
 
 <table width="100%">
 <tr>
-<td colspan="2" align="left">
+<td align="left">
 🔴 🟡 🟢 &nbsp;<code>~/divyansh/streak</code>&nbsp;&nbsp;<code>$ git log --streak</code>
 </td>
 </tr>
 <tr>
-<td align="center" valign="middle" width="42%">
-<img src="https://streak-stats.demolab.com/?user=divyansh1502&theme=dark&hide_border=true&background=0A1026&ring=FFC83D&fire=FFC83D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC83D&sideLabels=8FA2D9&dates=8FA2D9&stroke=4169E1" width="100%" alt="GitHub streak"/>
-</td>
-<td align="center" valign="middle" width="58%">
-<img src="https://ghchart.rshah.org/4169E1/divyansh1502" width="100%" alt="Contribution graph"/>
+<td align="center" valign="middle">
+<img src="https://streak-stats.demolab.com/?user=divyansh1502&theme=dark&hide_border=true&background=0A1026&ring=FFC83D&fire=FFC83D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC83D&sideLabels=8FA2D9&dates=8FA2D9&stroke=4169E1&v=2" width="42%" alt="GitHub streak"/>
+<img src="https://ghchart.rshah.org/4169E1/divyansh1502" width="56%" alt="Contribution graph"/>
 </td>
 </tr>
 <tr>
-<td colspan="2" align="left">
+<td align="left">
 <code>$ echo "Every green square is a commit."</code> &nbsp;<code>▌</code>
 </td>
 </tr>
