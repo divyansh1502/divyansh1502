@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Divyansh Singh</h1>
+<h1 align="center">Divyansh Singh</h1>
 
-<h3 align="center">Java Backend Developer || Passionate about Data Structures, Algorithms, Spring Boot, LLD & System Design.</h3>
+<p align="center"><code>Java Backend Developer</code> · <code>DSA</code> · <code>LLD & System Design</code></p>
 
 <br/>
 
@@ -17,12 +17,18 @@
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/divyansh1502" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/></a></td>
-    <td><a href="https://github.com/divyansh1502" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" width="40"/></a></td>
+    <td><a href="https://github.com/divyansh1502" target="blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" width="40" alt="github"/></a></td>
     <td><a href="https://x.com/divyansh_5ingh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitter.svg" height="40" width="40"/></a></td>
-    <td><a href="https://leetcode.com/u/divyansh_5ingh/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/leet-code.svg" height="40" width="40"/></a></td>
-    <td><a href="https://www.geeksforgeeks.org/profile/divyansh1502" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="40"/></a></td>
-    <td><a href="https://takeuforward.org/profile/divyansh1502" target="blank"><img src="./assets/takeUforward.jpg" height="40" width="40"/></a></td>
-    <td><a href="mailto:divyanshsingh786420@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1026" alt="Gmail"/></a></td>
+    <td><a href="mailto:divyanshsingh786420@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="gmail"/></a></td>
+  </tr>
+</table>
+
+### Coding Profiles:
+<table>
+  <tr>
+    <td><a href="https://leetcode.com/u/divyansh_5ingh/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="leetcode"/></a></td>
+    <td><a href="https://www.geeksforgeeks.org/profile/divyansh1502" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="40" alt="geeksforgeeks"/></a></td>
+    <td><a href="https://takeuforward.org/profile/divyansh1502" target="blank"><img src="./assets/takeUforward.jpg" height="40" width="40" alt="takeuforward"/></a></td>
   </tr>
 </table>
 
@@ -38,7 +44,7 @@
     <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a></td>
     <td><a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a></td>
     <td><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
-    <td><a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" width="40" height="40"/></a></td>
     <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a></td>
   </tr>
 </table>
