@@ -1,166 +1,83 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Divyansh Singh</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3590,50:4169E1,100:FFC83D&height=190&section=header&text=Divyansh%20Singh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Divyansh Singh"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FFC83D&center=true&vCenter=true&width=620&height=40&lines=Java+Backend+Developer;DSA+Problem+Solver;Learning+LLD+%26+System+Design;Docker+%C2%B7+Kubernetes+%C2%B7+Spring+Boot" alt="Typing roles"/>
-
-</div>
+<h3 align="center">Java Backend Developer || Passionate about Data Structures, Algorithms, Spring Boot, LLD & System Design.</h3>
 
 <br/>
 
-<div align="center">
-
-<code>$ ./connect --all</code>
-
-<a href="https://www.linkedin.com/in/divyansh1502"><img src="https://img.shields.io/badge/LinkedIn-divyansh1502-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0id2hpdGUiLz48dGV4dCB4PSIxMiIgeT0iMTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMTUiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LWZhbWlseT0iQXJpYWwiIGZpbGw9IiMwQTY2QzIiPmluPC90ZXh0Pjwvc3ZnPg==&labelColor=0A1026" alt="LinkedIn"/></a>
-<a href="https://github.com/divyansh1502"><img src="https://img.shields.io/badge/GitHub-divyansh1502-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1026" alt="GitHub"/></a>
-<a href="https://x.com/divyansh_5ingh"><img src="https://img.shields.io/badge/X-@divyansh__5ingh-6e7681?style=for-the-badge&logo=x&logoColor=white&labelColor=0A1026" alt="X"/></a>
-<a href="mailto:divyanshsingh786420@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1026" alt="Gmail"/></a>
-
-<a href="./assets/Resume.pdf?raw=true"><img src="https://img.shields.io/badge/📄_Resume-FFC83D?style=for-the-badge&logoColor=black" alt="Resume"/></a>
-<a href="mailto:divyanshsingh786420@gmail.com?subject=Opportunity"><img src="https://img.shields.io/badge/✅_Open_to_work-22c55e?style=for-the-badge" alt="Open to work"/></a>
-
-</div>
+- 🎓 I'm currently pursuing Engineering in Computer Science
+- 🌱 "Currently expanding my expertise in DSA, LLD & System Design, and building scalable backends with Spring Boot, Docker & Kubernetes."
+- 💻 All of my projects are available at https://github.com/divyansh1502
+- 📧 How to reach me: **divyanshsingh786420@gmail.com**
+- 📄 Know about my experiences: [My Resume](./assets/Resume.pdf?raw=true)
+- ✅ Open to work
 
 <br/>
 
-<table width="100%">
-<tr>
-<td align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/grind</code>&nbsp;&nbsp;<code>$ ls --stats</code>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://leetcard.jacoblin.cool/divyansh_5ingh?theme=dark&font=Fira%20Code&ext=heatmap&v=2" width="49%" alt="LeetCode stats"/></a>
-<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=divyansh1502&theme=dark&v=2" width="49%" alt="GeeksforGeeks stats"/></a>
-</td>
-</tr>
-<tr>
-<td align="left">
-<code>$ echo "Solve. Learn. Repeat."</code> &nbsp;<code>▌</code>
-</td>
-</tr>
+### Connect with me:
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/divyansh1502" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/></a></td>
+    <td><a href="https://github.com/divyansh1502" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" width="40"/></a></td>
+    <td><a href="https://x.com/divyansh_5ingh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitter.svg" height="40" width="40"/></a></td>
+    <td><a href="https://leetcode.com/u/divyansh_5ingh/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/leet-code.svg" height="40" width="40"/></a></td>
+    <td><a href="https://www.geeksforgeeks.org/profile/divyansh1502" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="40"/></a></td>
+    <td><a href="https://takeuforward.org/profile/divyansh1502" target="blank"><img src="./assets/takeUforward.jpg" height="40" width="40"/></a></td>
+    <td><a href="mailto:divyanshsingh786420@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1026" alt="Gmail"/></a></td>
+  </tr>
 </table>
 
-<br/>
-
-<table width="100%">
-<tr>
-<td align="left" width="42%">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/profiles</code>
-</td>
-<td align="left" width="58%">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/stack</code>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<code>$ cat profiles.txt</code>
-<table width="100%">
-<tr>
-<td align="center" valign="middle"><a href="https://leetcode.com/u/divyansh_5ingh/"><img src="./assets/leetcode.png" height="34" alt="LeetCode"/></a></td>
-<td align="left" valign="middle"><b>LeetCode</b><br/><sub><code>@divyansh_5ingh</code></sub></td>
-<td align="right" valign="middle"><a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://img.shields.io/badge/OPEN_%E2%86%97-FFA116?style=flat-square&labelColor=0A1026" alt="Open LeetCode"/></a></td>
-</tr>
-<tr>
-<td align="center" valign="middle"><a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="./assets/gfg.png" height="34" alt="GeeksforGeeks"/></a></td>
-<td align="left" valign="middle"><b>GeeksforGeeks</b><br/><sub><code>@divyansh1502</code></sub></td>
-<td align="right" valign="middle"><a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="https://img.shields.io/badge/OPEN_%E2%86%97-2F8D46?style=flat-square&labelColor=0A1026" alt="Open GeeksforGeeks"/></a></td>
-</tr>
-<tr>
-<td align="center" valign="middle"><a href="https://takeuforward.org/profile/divyansh1502"><img src="./assets/takeUforward.jpg" height="34" alt="TakeUForward"/></a></td>
-<td align="left" valign="middle"><b>TakeUForward</b><br/><sub><code>@divyansh1502</code></sub></td>
-<td align="right" valign="middle"><a href="https://takeuforward.org/profile/divyansh1502"><img src="https://img.shields.io/badge/OPEN_%E2%86%97-4169E1?style=flat-square&labelColor=0A1026" alt="Open TakeUForward"/></a></td>
-</tr>
-</table>
-</td>
-<td align="center" valign="middle">
-<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,react,mysql,docker,kubernetes,git,github,vscode&theme=dark" alt="Stack and tools"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/JPA-1B3590?style=flat-square" alt="JPA"/>
-<img src="https://img.shields.io/badge/JDBC-1B3590?style=flat-square" alt="JDBC"/>
-<img src="https://img.shields.io/badge/REST_APIs-1B3590?style=flat-square" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JUnit-1B3590?style=flat-square" alt="JUnit"/>
-<img src="https://img.shields.io/badge/DSA-4169E1?style=flat-square" alt="DSA"/>
-<img src="https://img.shields.io/badge/OOP-4169E1?style=flat-square" alt="OOP"/>
-<img src="https://img.shields.io/badge/LLD-4169E1?style=flat-square" alt="LLD"/>
-<img src="https://img.shields.io/badge/System_Design-4169E1?style=flat-square" alt="System Design"/>
-<br/><br/>
-</td>
-</tr>
+### Languages and Tools:
+<table>
+  <tr>
+    <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
+    <td><a href="https://spring.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a></td>
+    <td><a href="https://hibernate.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/></a></td>
+    <td><a href="https://maven.apache.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/></a></td>
+    <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
+    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
+    <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a></td>
+    <td><a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a></td>
+  </tr>
 </table>
 
-<br/>
-
-<table width="100%">
-<tr>
-<td colspan="4" align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/projects</code>&nbsp;&nbsp;<code>$ ls --featured</code>
-</td>
-</tr>
-<tr>
-<td width="18%"><b>👥 HR Synergy </b></td>
-<td><a href="https://github.com/divyansh1502/HRMS-Project"><img src="https://img.shields.io/badge/Repo-0A1026?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a></td>
-<td rowspan="5" align="center" valign="middle" width="28%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&theme=dark&hide_border=true&bg_color=0A1026&title_color=FFC83D&text_color=8FA2D9&langs_count=6&v=2" width="100%" alt="Top languages"/>
-</td>
-<td rowspan="5" align="center" valign="middle" width="28%">
-<img src="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&theme=dark&hide_border=true&bg_color=0A1026&title_color=FFC83D&text_color=8FA2D9&icon_color=4169E1&hide_rank=true&v=2" width="100%" alt="GitHub stats"/>
-</td>
-</tr>
-<tr>
-<td><b>🔗 URL Shortener</b></td>
-<td><img src="https://img.shields.io/badge/Repo-Coming_Soon-6e7681?style=flat-square" alt="Coming soon"/></td>
-</tr>
-<tr>
-<td><b>🎵 Spotify Clone</b></td>
-<td>
-<a href="https://github.com/divyansh1502/Spotify.git"><img src="https://img.shields.io/badge/Repo-0A1026?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
-<a href="https://divyansh1502.github.io/Spotify/"><img src="https://img.shields.io/badge/Live_Demo-4169E1?style=flat-square" alt="Demo"/></a>
-</td>
-</tr>
-<tr>
-<td><b>⛳ Sidcup Golf Clone</b></td>
-<td>
-<a href="https://github.com/divyansh1502/sidcup-golf-clone"><img src="https://img.shields.io/badge/Repo-0A1026?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
-<a href="https://divyansh1502.github.io/sidcup-golf-web-clone/"><img src="https://img.shields.io/badge/Live_Demo-4169E1?style=flat-square" alt="Demo"/></a>
-</td>
-</tr>
-<tr>
-<td><b>📱 QRder</b></td>
-<td>—</td>
-</tr>
+### Featured Projects:
+<table>
+  <tr>
+    <td><b>👥 HR Synergy</b></td>
+    <td><a href="https://github.com/divyansh1502/HRMS-Project">Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>🔗 URL Shortener</b></td>
+    <td>Coming Soon</td>
+  </tr>
+  <tr>
+    <td><b>🎵 Spotify Clone</b></td>
+    <td><a href="https://github.com/divyansh1502/Spotify.git">Repo</a> · <a href="https://divyansh1502.github.io/Spotify/">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>⛳ Sidcup Golf Clone</b></td>
+    <td><a href="https://github.com/divyansh1502/sidcup-golf-clone">Repo</a> · <a href="https://divyansh1502.github.io/sidcup-golf-web-clone/">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>📱 QRder</b></td>
+    <td>—</td>
+  </tr>
 </table>
 
-<br/>
-
-<table width="100%">
-<tr>
-<td align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/streak</code>&nbsp;&nbsp;<code>$ git log --streak</code>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-<img src="https://streak-stats.demolab.com/?user=divyansh1502&theme=dark&hide_border=true&background=0A1026&ring=FFC83D&fire=FFC83D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC83D&sideLabels=8FA2D9&dates=8FA2D9&stroke=4169E1&v=2" width="42%" alt="GitHub streak"/>
-<img src="https://ghchart.rshah.org/4169E1/divyansh1502" width="56%" alt="Contribution graph"/>
-</td>
-</tr>
-<tr>
-<td align="left">
-<code>$ echo "Every green square is a commit."</code> &nbsp;<code>▌</code>
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&theme=default&hide_border=false&langs_count=6" alt="Top Languages" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&theme=default&hide_border=false&hide_rank=true" alt="GitHub Stats" />
+    </td>
+  </tr>
 </table>
 
-<div align="center">
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=divyansh1502&label=PROFILE+VIEWS&color=4169E1&style=for-the-badge" alt="Profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:1B3590&height=100&section=footer" width="100%" alt=""/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divyansh1502&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
