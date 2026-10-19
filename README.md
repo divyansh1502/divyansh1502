@@ -29,10 +29,7 @@
     <td><a href="https://leetcode.com/u/divyansh_5ingh/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="leetcode"/></a></td>
     <td><a href="https://www.geeksforgeeks.org/profile/divyansh1502" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="40" alt="geeksforgeeks"/></a></td>
     <td><a href="https://takeuforward.org/profile/divyansh1502" target="blank"><img src="./assets/takeUforward.jpg" height="40" width="40" alt="takeuforward"/></a></td>
-<<<<<<< HEAD
     <td><a href="https://neetcode.io/user/LaserLogia686" target="blank"><img src="./assets/neetcode.jpg" height="40" width="40" alt="neetcode"/></a></td>
-=======
->>>>>>> a45048137240ef6d87be7bc3563d403171ba08e8
   </tr>
 </table>
 
@@ -90,8 +87,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=divyansh1502&theme=default&hide_border=false" alt="GitHub Streak" />
-<<<<<<< HEAD
 </p>
-=======
-</p>
->>>>>>> a45048137240ef6d87be7bc3563d403171ba08e8
