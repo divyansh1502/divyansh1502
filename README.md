@@ -1,295 +1,90 @@
-<a id="top"></a>
+<h1 align="center">Divyansh Singh</h1>
 
-<div align="center">
-
-<img src="./assets/hero-intro.svg" width="100%" alt="Divyansh Singh, Java Backend Developer, DSA, System Design"/>
-
-
-<a href="https://www.linkedin.com/in/divyansh1502"><img src="./assets/linkedin-btn.svg" width="100" alt="LinkedIn"/></a>
-<a href="https://x.com/divyansh_5ingh"><img src="./assets/x-btn.svg" width="100" alt="Follow on X"/></a>
-<a href="mailto:divyanshsingh786420@gmail.com"><img src="./assets/gmail-btn.svg" width="100" alt="Email me"/></a>
-
-<br/>
-<a href="./assets/Resume.pdf?raw=true"><img src="./assets/resume-button.svg" width="156" alt="Download Resume"/></a>
-<a href="mailto:divyanshsingh786420@gmail.com?subject=Opportunity"><img src="./assets/open-to-work-btn.svg" width="130" alt="Open to work"/></a>
-</div>
+<p align="center"><code>Java Backend Developer</code> · <code>DSA</code> · <code>LLD & System Design</code></p>
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3590,50:4169E1,100:FFC83D&height=3&section=header" width="100%" alt=""/>
-
-<br/>
-
-<img src="./assets/h-about.svg" width="420" alt="About Me"/>
-
-<br/>
-
-<img src="./assets/about-me.svg" width="420" alt="About Divyansh: Java backend developer, DSA, learning LLD, System Design, Docker and Kubernetes"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
-
-</div>
+- 🎓 I'm currently pursuing Engineering in Computer Science
+- 🌱 "Currently expanding my expertise in DSA, LLD & System Design, and building scalable backends with Spring Boot, Docker & Kubernetes."
+- 💻 All of my projects are available at https://github.com/divyansh1502
+- 📧 How to reach me: **divyanshsingh786420@gmail.com**
+- 📄 Know about my experiences: [My Resume](./assets/Resume.pdf?raw=true)
+- ✅ Open to work
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3590,50:4169E1,100:FFC83D&height=3&section=header" width="100%" alt=""/>
-
-<br/>
-
-<img src="./assets/h-grind.svg" width="420" alt="Where the Grind Happens"/>
-
-<br/>
-
-<a href="https://leetcode.com/u/divyansh_5ingh/"><img src="./assets/lane-leetcode.svg" width="420" alt="Open my LeetCode profile"/></a>
-<br/>
-<a href="https://takeuforward.org/profile/divyansh1502"><img src="./assets/lane-takeuforward.svg" width="420" alt="Open my TakeUForward profile"/></a>
-<br/>
-<a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="./assets/lane-gfg.svg" width="420" alt="Open my GeeksforGeeks profile"/></a>
-
-<br/><br/>
-
-<code>$ echo "Solve. Learn. Repeat."</code> &nbsp;<code>▌</code>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3590,50:4169E1,100:FFC83D&height=3&section=header" width="100%" alt=""/>
-
-<br/>
-
-<img src="./assets/h-live.svg" width="420" alt="Live Stats"/>
-
-<img src="./assets/live-stats.svg" width="85%" alt="Live LeetCode and GitHub stats"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3590,50:4169E1,100:FFC83D&height=3&section=header" width="100%" alt=""/>
-
-<br/>
-
-<img src="./assets/h-tech.svg" width="420" alt="Tech Stack"/>
-
-<br/>
-
-<picture>
-<source media="(min-width: 760px)" srcset="./assets/tech-stack-wide.svg">
-<img src="./assets/tech-stack-v2.svg" alt="Tech stack: Java, Spring Boot, Hibernate, JPA, JDBC, REST APIs, Maven, JUnit, React, MySQL, Docker, Kubernetes, DSA, OOP, LLD, System Design and more"/>
-</picture>
-
-<br/><br/>
-
-<code>$ echo "Right tool, right job."</code> &nbsp;<code>▌</code>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3590,50:4169E1,100:FFC83D&height=3&section=header" width="100%" alt=""/>
-
-<br/>
-
-<img src="./assets/h-projects.svg" width="420" alt="Featured Projects"/>
-
-<table width="100%">
-
-<tr>
-<td colspan="2" align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/projects</code>&nbsp;&nbsp;<code>$ ls --featured</code>
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top" width="50%">
-<img src="./assets/project-hr-synergy.svg" width="100%" alt="HR Synergy project card"/>
-<br/>
-<a href="https://github.com/divyansh1502/HRMS-Project"><img src="./assets/repo-btn.svg" width="73" alt="HR Synergy Repo"/></a>
-</td>
-<td align="center" valign="top" width="50%">
-<img src="./assets/project-url-shortener.svg" width="100%" alt="URL Shortener project card"/>
-<br/>
-<img src="./assets/soon-btn.svg" width="73" alt="Repo coming soon"/>
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top" colspan="2">
-<img src="./assets/project-spotify-clone.svg" width="100%" alt="Spotify Clone project card"/>
-<br/>
-<a href="https://github.com/divyansh1502/Spotify.git"><img src="./assets/repo-btn.svg" width="73" alt="Spotify Repo"/></a>
-<a href="https://divyansh1502.github.io/Spotify/"><img src="./assets/demo-btn.svg" width="73" alt="Spotify Demo"/></a>
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top" width="50%">
-<img src="./assets/project-sidcup-golf.svg" width="100%" alt="Sidcup Golf Clone project card"/>
-<br/>
-<a href="https://github.com/divyansh1502/sidcup-golf-clone"><img src="./assets/repo-btn.svg" width="73" alt="Sidcup Golf Repo"/></a>
-<a href="https://divyansh1502.github.io/sidcup-golf-web-clone/"><img src="./assets/demo-btn.svg" width="73" alt="Sidcup Golf Demo"/></a>
-</td>
-<td align="center" valign="top" width="50%">
-<img src="./assets/project-qrder.svg" width="100%" alt="QRder project card"/>
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="left">
-<code>$ echo "Build. Break. Ship."</code> &nbsp;<code>▌</code>
-</td>
-</tr>
-
+### Connect with me:
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/divyansh1502" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/></a></td>
+    <td><a href="https://github.com/divyansh1502" target="blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" width="40" alt="github"/></a></td>
+    <td><a href="https://x.com/divyansh_5ingh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitter.svg" height="40" width="40"/></a></td>
+    <td><a href="mailto:divyanshsingh786420@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="gmail"/></a></td>
+  </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="./assets/terminal-hero.svg" width="85%" alt="Animated terminal intro"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3590,50:4169E1,100:FFC83D&height=3&section=header" width="100%" alt=""/>
-
-<br/>
-
-<img src="./assets/h-snake.svg" width="420" alt="Contribution Snake"/>
-
-<table width="100%">
-
-<tr>
-<td align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/contributions</code>&nbsp;&nbsp;<code>$ ./snake --eat</code>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/divyansh1502/divyansh1502/output/snake.svg" width="100%" alt="Contribution snake"/>
-<br/><br/>
-<code>$ git log --graph --contributions</code>
-<br/><br/>
-<img src="https://ghchart.rshah.org/4169E1/divyansh1502" width="95%" alt="Contribution graph"/>
-</td>
-</tr>
-
-<tr>
-<td align="left">
-<code>$ echo "Every green square is a commit."</code> &nbsp;<code>▌</code>
-</td>
-</tr>
-
+### Coding Profiles:
+<table>
+  <tr>
+    <td><a href="https://leetcode.com/u/divyansh_5ingh/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/leet-code.svg" height="40" width="40" alt="leetcode"/></a></td>
+    <td><a href="https://www.geeksforgeeks.org/profile/divyansh1502" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="40" alt="geeksforgeeks"/></a></td>
+    <td><a href="https://takeuforward.org/profile/divyansh1502" target="blank"><img src="./assets/takeUforward.jpg" height="40" width="40" alt="takeuforward"/></a></td>
+    <td><a href="https://neetcode.io/user/LaserLogia686" target="blank"><img src="./assets/neetcode.jpg" height="40" width="40" alt="neetcode"/></a></td>
+  </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3590,50:4169E1,100:FFC83D&height=3&section=header" width="100%" alt=""/>
-
-<br/>
-
-<img src="./assets/h-github.svg" width="420" alt="GitHub Stats"/>
-
-<br/>
-
-<picture>
-<source media="(min-width: 760px)" srcset="./assets/github-stats.svg">
-<img src="./assets/github-stats.svg" alt="GitHub stats: contribution streak, commits, pull requests, issues, stars, repositories, followers and top languages"/>
-</picture>
-
-<br/><br/>
-
-<code>$ echo "Commit daily."</code> &nbsp;<code>▌</code>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
-
-</div>
-
-<br/>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1B3590,50:4169E1,100:FFC83D&height=3&section=header" width="100%" alt=""/>
-
-<br/>
-
-<img src="./assets/h-trophies.svg" width="420" alt="Trophies and Profile Views"/>
-
-<table width="100%">
-
-<tr>
-<td align="left">
-🔴 🟡 🟢 &nbsp;<code>~/divyansh/achievements</code>&nbsp;&nbsp;<code>$ ls --trophies</code>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="./assets/achievements.svg" width="420" alt="Highlights: internship, 5 projects, 3 coding platforms, always learning"/>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=divyansh1502&label=PROFILE+VIEWS&color=4169E1&style=for-the-badge" alt="Profile views"/>
-</td>
-</tr>
-
-<tr>
-<td align="left">
-<code>$ echo "Trophies are earned, not given."</code> &nbsp;<code>▌</code>
-</td>
-</tr>
-
+### Languages and Tools:
+<table>
+  <tr>
+    <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
+    <td><a href="https://spring.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a></td>
+    <td><a href="https://hibernate.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/></a></td>
+    <td><a href="https://maven.apache.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/></a></td>
+    <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
+    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
+    <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a></td>
+    <td><a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" width="40" height="40"/></a></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a></td>
+  </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC83D,50:4169E1,100:1B3590&height=3&section=header" width="100%" alt=""/>
+### Featured Projects:
+<table>
+  <tr>
+    <td><b>👥 HR Synergy</b></td>
+    <td><a href="https://github.com/divyansh1502/HRMS-Project">Repo</a></td>
+  </tr>
+  <tr>
+    <td><b>🔗 URL Shortener</b></td>
+    <td>Coming Soon</td>
+  </tr>
+  <tr>
+    <td><b>🎵 Spotify Clone</b></td>
+    <td><a href="https://github.com/divyansh1502/Spotify.git">Repo</a> · <a href="https://divyansh1502.github.io/Spotify/">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>⛳ Sidcup Golf Clone</b></td>
+    <td><a href="https://github.com/divyansh1502/sidcup-golf-clone">Repo</a> · <a href="https://divyansh1502.github.io/sidcup-golf-web-clone/">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>📱 QRder</b></td>
+    <td>—</td>
+  </tr>
+</table>
 
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1502&layout=compact&theme=default&hide_border=false&langs_count=6" alt="Top Languages" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=divyansh1502&show_icons=true&theme=default&hide_border=false&hide_rank=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<br/>
-
-<div align="center">
-
-<a href="#top"><img src="./assets/back-to-top-btn.svg" width="120" alt="Back to top"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:1B3590&height=110&section=footer" width="100%" alt=""/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divyansh1502&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
