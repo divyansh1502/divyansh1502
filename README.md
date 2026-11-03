@@ -37,28 +37,28 @@
         <img src="assets/leetcode.png" width="80" height="80" alt="LeetCode logo"/>
       </a>
       <br/><br/>
-      <a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://img.shields.io/badge/LeetCode-divyansh__5ingh-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode"/></a>
+      <a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
     </td>
     <td align="center" width="200">
       <a href="https://www.geeksforgeeks.org/profile/divyansh1502">
         <img src="assets/gfg.png" width="80" height="80" alt="GeeksforGeeks logo"/>
       </a>
       <br/><br/>
-      <a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="https://img.shields.io/badge/GeeksforGeeks-divyansh1502-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0D1117" alt="GeeksforGeeks"/></a>
+      <a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
     </td>
     <td align="center" width="200">
       <a href="https://takeuforward.org/profile/divyansh1502">
         <img src="assets/takeUforward.jpg" width="80" height="80" alt="takeUforward logo"/>
       </a>
       <br/><br/>
-      <a href="https://takeuforward.org/profile/divyansh1502"><img src="https://img.shields.io/badge/takeUforward-divyansh1502-E5484D?style=for-the-badge&labelColor=0D1117" alt="takeUforward"/></a>
+      <a href="https://takeuforward.org/profile/divyansh1502"><img src="https://img.shields.io/badge/takeUforward-E5484D?style=for-the-badge" alt="takeUforward"/></a>
     </td>
     <td align="center" width="200">
       <a href="https://neetcode.io/user/LaserLogia686">
         <img src="assets/neetcode.jpg" width="80" height="80" alt="NeetCode logo"/>
       </a>
       <br/><br/>
-      <a href="https://neetcode.io/user/LaserLogia686"><img src="https://img.shields.io/badge/NeetCode-LaserLogia686-00BFFF?style=for-the-badge&labelColor=0D1117" alt="NeetCode"/></a>
+      <a href="https://neetcode.io/user/LaserLogia686"><img src="https://img.shields.io/badge/NeetCode-00BFFF?style=for-the-badge" alt="NeetCode"/></a>
     </td>
   </tr>
 </table>
