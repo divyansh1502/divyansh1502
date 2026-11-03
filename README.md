@@ -24,26 +24,18 @@
 
 ## Coding profiles
 
-<table align="center">
-  <tr>
-    <td align="center" width="170">
-      <a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/leet-code.svg" height="56" alt="LeetCode"/></a><br/>
-      <a href="https://leetcode.com/u/divyansh_5ingh/"><b>LeetCode</b></a>
-    </td>
-    <td align="center" width="170">
-      <a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/geeks-for-geeks.svg" height="56" alt="GeeksforGeeks"/></a><br/>
-      <a href="https://www.geeksforgeeks.org/profile/divyansh1502"><b>GeeksforGeeks</b></a>
-    </td>
-    <td align="center" width="170">
-      <a href="https://takeuforward.org/profile/divyansh1502"><img src="./assets/takeUforward.jpg" height="56" alt="takeUforward"/></a><br/>
-      <a href="https://takeuforward.org/profile/divyansh1502"><b>takeUforward</b></a>
-    </td>
-    <td align="center" width="170">
-      <a href="https://neetcode.io/user/LaserLogia686"><img src="./assets/neetcode.jpg" height="56" alt="NeetCode"/></a><br/>
-      <a href="https://neetcode.io/user/LaserLogia686"><b>NeetCode</b></a>
-    </td>
-  </tr>
-</table>
+<p align="center"><i>Solve. Learn. Repeat.</i></p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://leetcard.jacoblin.cool/divyansh_5ingh?theme=dark&font=Karma&ext=heatmap" alt="LeetCode live stats"/></a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/divyansh_5ingh/"><img src="https://img.shields.io/badge/LeetCode-divyansh__5ingh-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/divyansh1502"><img src="https://img.shields.io/badge/GeeksforGeeks-divyansh1502-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0D1117" alt="GeeksforGeeks"/></a>
+  <a href="https://takeuforward.org/profile/divyansh1502"><img src="https://img.shields.io/badge/takeUforward-divyansh1502-E5484D?style=for-the-badge&labelColor=0D1117" alt="takeUforward"/></a>
+  <a href="https://neetcode.io/user/LaserLogia686"><img src="https://img.shields.io/badge/NeetCode-LaserLogia686-00BFFF?style=for-the-badge&labelColor=0D1117" alt="NeetCode"/></a>
+</p>
 
 ## Tech stack
 
